@@ -6,7 +6,7 @@ from direct.showbase.BulletinBoardGlobal import *
 from direct.task.TaskManagerGlobal import *
 from direct.showbase.JobManagerGlobal import *
 from direct.showbase.EventManagerGlobal import *
-from otp.otpbase.PythonUtil import *
+from direct.showbase.PythonUtil import *
 from otp.otpbase import PythonUtil
 from direct.interval.IntervalManager import ivalMgr
 from direct.task import Task
