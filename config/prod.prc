@@ -17,6 +17,9 @@ exec-chat false
 log-private-info false
 want-qa-regression false
 
+# DC file
+dc-file astron/dclass/tto.dc
+
 # Chat settings
 want-whitelist true
 
