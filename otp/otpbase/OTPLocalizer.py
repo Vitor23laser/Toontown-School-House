@@ -20,11 +20,11 @@ else:
     checkLanguage = 1
     _languageModule = 'otp.otpbase.OTPLocalizer_' + language
 print 'from ' + _languageModule + ' import *'
-from otp.otpbase.OTPLocalizer_portuguese import *
+from otp.otpbase.OTPLocalizerEnglish import *
 if checkLanguage:
     l = {}
     g = {}
-    portugueseModule = __import__('otp.otpbase.OTPLocalizer_portuguese', g, l)
+    englishModule = __import__('otp.otpbase.OTPLocalizer_portuguese', g, l)
     foreignModule = __import__(_languageModule, g, l)
     for key, val in portugueseModule.__dict__.items():
         if key not in foreignModule.__dict__:
@@ -42,5 +42,5 @@ if checkLanguage:
                     print 'WARNING: Foreign module: %s extra key: %s.%s' % (_languageModule, key, dkey)
 
     for key in foreignModule.__dict__.keys():
-        if key not in portugueseModule.__dict__:
+        if key not in englishModule.__dict__:
             print 'WARNING: Foreign module: %s extra key: %s' % (_languageModule, key)
