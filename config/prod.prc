@@ -47,7 +47,10 @@ model-cache-textures false
 want-gardening true
 want-cogdominiums true
 want-emblems true
-want-news true
+
+# Toon News settings
+want-news-page true
+want-news-tab true
 
 # Misc. settings
 language portuguese
