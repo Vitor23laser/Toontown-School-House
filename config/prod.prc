@@ -32,6 +32,7 @@ model-cache-textures false
 want-gardening true
 want-cogdominiums true
 want-emblems true
+want-news true
 
-# misc settings
+# Misc. settings
 language portuguese
