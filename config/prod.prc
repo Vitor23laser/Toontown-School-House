@@ -24,7 +24,7 @@ want-whitelist true
 audio-library-name null
 
 # Resources settings
-
+model-path /
 model-cache-models false
 model-cache-textures false
 
@@ -34,4 +34,4 @@ want-cogdominiums true
 want-emblems true
 
 # misc settings
-launguage portuguese
+language portuguese
