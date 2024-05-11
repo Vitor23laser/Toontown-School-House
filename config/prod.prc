@@ -39,3 +39,5 @@ vfs-mount phase_12.mf /
 vfs-mount phase_13.mf /
 model-cache-models false
 model-cache-textures false
+
+# Gameplay Settings
