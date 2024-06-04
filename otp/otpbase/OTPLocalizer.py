@@ -20,7 +20,7 @@ else:
     checkLanguage = 1
     _languageModule = 'otp.otpbase.OTPLocalizer_' + language
 print 'from ' + _languageModule + ' import *'
-from otp.otpbase.OTPLocalizerEnglish import *
+from otp.otpbase.OTPLocalizer_portuguese import *
 if checkLanguage:
     l = {}
     g = {}
