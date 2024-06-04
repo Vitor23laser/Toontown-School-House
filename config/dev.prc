@@ -8,7 +8,7 @@ window-title Toontown
 console-output true
 
 # Server settings
-server-version dev
+server-version tto-dev
 
 # Developer settings
 want-dev false
