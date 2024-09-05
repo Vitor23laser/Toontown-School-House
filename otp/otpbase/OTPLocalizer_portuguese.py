@@ -132,9 +132,9 @@ PrivacyPolicyText_Intro = [' ']
 PrivacyPolicyClose = lClose
 SecretFriendsInfoPanelOk = lOK
 SecretFriendsInfoPanelClose = lClose
-SecretFriendsInfoPanelText = ['\nO recurso Abrir chat com Amigos verdadeiros\n\nO recurso Abrir chat com Amigos verdadeiros ativa um membro para conversar diretamente com outro no Toontown On-line da Disney (o "Servi\xc3\xa7o") depois que os membros estabelecerem uma conex\xc3\xa3o de Amigos verdadeiros. Quando o seu filho tentar usar o recurso Abrir chat com Amigos verdadeiros, solicitaremos que voc\xc3\xaa insira a sua Senha conta de pais para indicar seu consentimento para que a crian\xc3\xa7a use o recurso. Esta \xc3\xa9 uma descri\xc3\xa7\xc3\xa3o detalhada do processo de cria\xc3\xa7\xc3\xa3o de uma conex\xc3\xa3o de Abrir chat com Amigos verdadeiros entre os membros fict\xc3\xadcios chamados "Sandra" e "Marcos". \n1. O respons\xc3\xa1vel por Sandra e o respons\xc3\xa1vel por Marcos ativam o recurso Abrir chat com Amigos verdadeiros inserindo suas respectivas Senhas conta de pais (a) nas \xc3\xa1reas de Op\xc3\xa7\xc3\xb5es da conta do Servi\xc3\xa7o ou (b) quando for solicitado no jogo, em uma janela pop-up de Controles dispon\xc3\xadveis aos pais.\n2. Sandra pede um C\xc3\xb3digo de Amigo verdadeiro (descrito abaixo) no Servi\xc3\xa7o.', 
- '\n3. O C\xc3\xb3digo de Amigo verdadeiro de Sandra \xc3\xa9 comunicado a Marcos fora do Servi\xc3\xa7o. (O C\xc3\xb3digo de Amigo verdadeiro de Sandra pode ser comunicado a Marcos diretamente por Sandra ou indiretamente, se Sandra revelar o C\xc3\xb3digo de Amigo verdadeiro a outra pessoa.)\n4. Marcos envia o C\xc3\xb3digo de Amigo verdadeiro de Sandra ao Servi\xc3\xa7o dentro de 48 horas a partir da hora em que Sandra solicitou o C\xc3\xb3digo de Amigo verdadeiro ao Servi\xc3\xa7o.\n5. Em seguida, o Servi\xc3\xa7o notifica Marcos de que Sandra tornou-se sua Amiga verdadeira. Da mesma forma, o Servi\xc3\xa7o notifica Sandra de que Marcos tornou-se seu Amigo verdadeiro. \n6. Sandra e Marcos podem agora bater um papo aberto diretamente um com o outro at\xc3\xa9 um deles escolher cancelar o seu relacionamento como Amigo verdadeiro, ou at\xc3\xa9 que o recurso Abrir Chat com Amigos verdadeiros seja desativado para Sandra ou Marcos por um dos respons\xc3\xa1veis. Ent\xc3\xa3o, a conex\xc3\xa3o de Amigos verdadeiros pode ser desativada a qualquer momento: (a) por um membro, que remove o Amigo verdadeiro de sua lista de amigos (conforme descrito no Servi\xc3\xa7o), ou (b) pelo respons\xc3\xa1vel pelo membro, que desativa o recurso Abrir chat com ', 
- '\nAmigos verdadeiros na \xc3\xa1rea Op\xc3\xa7\xc3\xb5es da conta do Servi\xc3\xa7o, seguindo as etapas definidas no recurso.\n\nUm C\xc3\xb3digo de Amigo verdadeiro \xc3\xa9 um c\xc3\xb3digo aleat\xc3\xb3rio, gerado por computador, que \xc3\xa9 atribu\xc3\xaddo a um membro espec\xc3\xadfico. O C\xc3\xb3digo de Amigo verdadeiro precisa ser usado para ativar a conex\xc3\xa3o de Amigo verdadeiro dentro de 48 horas a partir da hora em que o membro solicitou o C\xc3\xb3digo de Amigo verdadeiro; caso contr\xc3\xa1rio, o C\xc3\xb3digo de Amigo verdadeiro expirar\xc3\xa1 e n\xc3\xa3o poder\xc3\xa1 ser usado. Al\xc3\xa9m disso, s\xc3\xb3 se pode usar um simples C\xc3\xb3digo de Amigo verdadeiro para estabelecer uma conex\xc3\xa3o de Amigo verdadeiro. Para fazer conex\xc3\xb5es adicionais de Amigos verdadeiros, o membro precisar\xc3\xa1 solicitar mais c\xc3\xb3digos de Amigo verdadeiros, um para cada Amigo verdadeiro que quiser incluir.\n\nAs Amizades verdadeiras n\xc3\xa3o podem ser transferidas. Por exemplo, se Sandra se tornar Amiga verdadeira de Marcos, e Marcos se tornar Amigo verdadeiro de J\xc3\xa9ssica, Sandra n\xc3\xa3o se tornar\xc3\xa1 automaticamente Amiga verdadeira de J\xc3\xa9ssica. Para que Sandra e J\xc3\xa9ssica\n',
+SecretFriendsInfoPanelText = ['\nO recurso Abrir chat com Amigos verdadeiros\n\nO recurso Abrir chat com Amigos verdadeiros ativa um membro para conversar diretamente com outro no Toontown On-line da Disney (o "Servi\xc3\xa7o") depois que os membros estabelecerem uma conex\xc3\xa3o de Amigos verdadeiros. Quando o seu filho tentar usar o recurso Abrir chat com Amigos verdadeiros, solicitaremos que voc\xc3\xaa insira a sua Senha conta de pais para indicar seu consentimento para que a crian\xc3\xa7a use o recurso. Esta \xc3\xa9 uma descri\xc3\xa7\xc3\xa3o detalhada do processo de cria\xc3\xa7\xc3\xa3o de uma conex\xc3\xa3o de Abrir chat com Amigos verdadeiros entre os membros fict\xc3\xadcios chamados "Tails" e "Perninha". \n1. O respons\xc3\xa1vel por Tails e o respons\xc3\xa1vel por Perninha ativam o recurso Abrir chat com Amigos verdadeiros inserindo suas respectivas Senhas conta de pais (a) nas \xc3\xa1reas de Op\xc3\xa7\xc3\xb5es da conta do Servi\xc3\xa7o ou (b) quando for solicitado no jogo, em uma janela pop-up de Controles dispon\xc3\xadveis aos pais.\n2. Tails pede um C\xc3\xb3digo de Amigo verdadeiro (descrito abaixo) no Servi\xc3\xa7o.', 
+ '\n3. O C\xc3\xb3digo de Amigo verdadeiro de Tails \xc3\xa9 comunicado a Perninha fora do Servi\xc3\xa7o. (O C\xc3\xb3digo de Amigo verdadeiro de Tails pode ser comunicado a Perninha diretamente por Tails ou indiretamente, se Tails revelar o C\xc3\xb3digo de Amigo verdadeiro a outra pessoa.)\n4. Perninha envia o C\xc3\xb3digo de Amigo verdadeiro de Tails ao Servi\xc3\xa7o dentro de 48 horas a partir da hora em que Tails solicitou o C\xc3\xb3digo de Amigo verdadeiro ao Servi\xc3\xa7o.\n5. Em seguida, o Servi\xc3\xa7o notifica Perninha de que Tails tornou-se sua Amiga verdadeira. Da mesma forma, o Servi\xc3\xa7o notifica Tails de que Perninha tornou-se seu Amigo verdadeiro. \n6. Tails e Perninha podem agora bater um papo aberto diretamente um com o outro at\xc3\xa9 um deles escolher cancelar o seu relacionamento como Amigo verdadeiro, ou at\xc3\xa9 que o recurso Abrir Chat com Amigos verdadeiros seja desativado para Tails ou Perninha por um dos respons\xc3\xa1veis. Ent\xc3\xa3o, a conex\xc3\xa3o de Amigos verdadeiros pode ser desativada a qualquer momento: (a) por um membro, que remove o Amigo verdadeiro de sua lista de amigos (conforme descrito no Servi\xc3\xa7o), ou (b) pelo respons\xc3\xa1vel pelo membro, que desativa o recurso Abrir chat com ', 
+ '\nAmigos verdadeiros na \xc3\xa1rea Op\xc3\xa7\xc3\xb5es da conta do Servi\xc3\xa7o, seguindo as etapas definidas no recurso.\n\nUm C\xc3\xb3digo de Amigo verdadeiro \xc3\xa9 um c\xc3\xb3digo aleat\xc3\xb3rio, gerado por computador, que \xc3\xa9 atribu\xc3\xaddo a um membro espec\xc3\xadfico. O C\xc3\xb3digo de Amigo verdadeiro precisa ser usado para ativar a conex\xc3\xa3o de Amigo verdadeiro dentro de 48 horas a partir da hora em que o membro solicitou o C\xc3\xb3digo de Amigo verdadeiro; caso contr\xc3\xa1rio, o C\xc3\xb3digo de Amigo verdadeiro expirar\xc3\xa1 e n\xc3\xa3o poder\xc3\xa1 ser usado. Al\xc3\xa9m disso, s\xc3\xb3 se pode usar um simples C\xc3\xb3digo de Amigo verdadeiro para estabelecer uma conex\xc3\xa3o de Amigo verdadeiro. Para fazer conex\xc3\xb5es adicionais de Amigos verdadeiros, o membro precisar\xc3\xa1 solicitar mais c\xc3\xb3digos de Amigo verdadeiros, um para cada Amigo verdadeiro que quiser incluir.\n\nAs Amizades verdadeiras n\xc3\xa3o podem ser transferidas. Por exemplo, se Tails se tornar Amiga verdadeira de Perninha, e Perninha se tornar Amigo verdadeiro de J\xc3\xa9ssica, Tails n\xc3\xa3o se tornar\xc3\xa1 automaticamente Amiga verdadeira de J\xc3\xa9ssica. Para que Tails e J\xc3\xa9ssica\n',
  "\nse tornem Amigas verdadeiras, uma delas ter\xc3\xa1 que solicitar um novo C\xc3\xb3digo de Amigo verdadeiro ao Servi\xc3\xa7o e comunicar \xc3\xa0 outra.\n\nOs Amigos verdadeiros se comunicam entre si por meio de uma conversa interativa em formato livre. O conte\xc3\xbado da conversa \xc3\xa9 inserido diretamente pelo membro participante e \xc3\xa9 processado pelo Servi\xc3\xa7o, cuja opera\xc3\xa7\xc3\xa3o \xc3\xa9 realizada pelo Walt Disney Internet Group ('WDIG'), 500 S. Buena Vista St., Burbank, CA 91521-7691.  Embora aconselhamos os membros n\xc3\xa3o trocarem informa\xc3\xa7\xc3\xb5es pessoais como nome e sobrenome, e-mails, endere\xc3\xa7o postal ou n\xc3\xbameros de telefone ao usarem o recurso Abrir Chat com Amigos verdadeiros, n\xc3\xa3o podemos garantir que os membros seguir\xc3\xa3o a recomenda\xc3\xa7\xc3\xa3o e que tais informa\xc3\xa7\xc3\xb5es sejam preservadas. Embora o chat Amigos verdadeiros seja automaticamente filtrado para maioria dos palavr\xc3\xb5es, Abrir chat com amigos verdadeiros pode ser moderado e a Disney reserva-se o direito de moderar qualquer parte do Servi\xc3\xa7o que a Disney,\n",
  '\na seu exclusivo e absoluto crit\xc3\xa9rio, julgar necess\xc3\xa1rio. No entanto, como Abrir chat com Amigos verdadeiros nem sempre ser\xc3\xa1 moderado, se a conta de pais deixarem seus filhos usarem a conta com o recurso Abrir chat com Amigos verdadeiros ativado no Servi\xc3\xa7o, aconselhamos que eles mesmos supervisionem os filhos durante a brincadeira. Ao ativar o recurso Abrir chat com Amigos verdadeiros, a conta de pais reconhece que, apesar de haver alguns riscos inerentes ao recurso Abrir chat com amigos verdadeiros, a conta de pais foi informada de todos os riscos mencionados aqui, concordando em aceit\xc3\xa1-los, seja previs\xc3\xadvel ou n\xc3\xa3o. \n\nO WDIG n\xc3\xa3o usa o conte\xc3\xbado do chat Amigos verdadeiros para nenhum fim que n\xc3\xa3o seja a comunica\xc3\xa7\xc3\xa3o do conte\xc3\xbado ao amigo verdadeiro do membro, e n\xc3\xa3o revela tal conte\xc3\xbado a terceiros, exceto: (1) se exigido por lei; por exemplo, para cumprir uma ordem ',
  "\nou intima\xc3\xa7\xc3\xa3o judicial; (2) para fazer com que os Termos de Uso aplic\xc3\xa1veis ao Servi\xc3\xa7o (que podem ser acessados na p\xc3\xa1gina principal do Servi\xc3\xa7o) sejam respeitados; ou (3) para proteger a seguran\xc3\xa7a dos Membros do Servi\xc3\xa7o e o Servi\xc3\xa7o propriamente dito. Mediante solicita\xc3\xa7\xc3\xa3o ao WDIG, o respons\xc3\xa1vel por uma crian\xc3\xa7a-membro pode analisar e mandar apagar qualquer conte\xc3\xbado do recurso de chat Amigos verdadeiros fornecidos pela crian\xc3\xa7a em quest\xc3\xa3o, desde que tal conte\xc3\xbado j\xc3\xa1 n\xc3\xa3o tenha sido exclu\xc3\xaddo dos registros pelo WDIG. Obedecendo \xc3\xa0 Children's Online Privacy Protection Act, uma lei americana de prote\xc3\xa7\xc3\xa3o \xc3\xa0 privacidade on-line para as crian\xc3\xa7as, estamos proibidos de condicionar a participa\xc3\xa7\xc3\xa3o da crian\xc3\xa7a em qualquer tipo de atividade (inclusive o recurso Abrir chat com Amigos verdadeiros) ao fornecimento, por parte da crian\xc3\xa7a, de mais informa\xc3\xa7\xc3\xb5es pessoais do que o estritamente necess\xc3\xa1rio para que ela participe de tais atividades.\n\nAl\xc3\xa9m disso, conforme observado acima, reconhecemos o direito do respons\xc3\xa1vel pela crian\xc3\xa7a de n\xc3\xa3o permitir que continuemos a deixar que a crian\xc3\xa7a use o recurso Amigos verdadeiros. Ao ativar o recurso Abrir chat com Amigos verdadeiros, voc\xc3\xaa reconhece que h\xc3\xa1 alguns riscos inerentes ao chat aberto, no qual os membros podem conversar uns com os outros usando o recurso Abrir chat com Amigos verdadeiros, sendo que voc\xc3\xaa foi informado de todos os riscos mencionados aqui, concordando em aceit\xc3\xa1-los, seja previs\xc3\xadvel ou n\xc3\xa3o.\n"]
@@ -158,7 +158,7 @@ ProblemActivatingChatOK = lOK
 MultiPageTextFrameNext = lNext
 MultiPageTextFramePrev = 'Anterior'
 MultiPageTextFramePage = 'P\xc3\xa1gina %s/%s'
-GuiScreenToontownUnavailable = 'Toontown parece estar temporariamente indispon\xc3\xadvel, ainda tentando...'
+GuiScreenToontownUnavailable = 'O servidor parece estar temporariamente indispon\xc3\xadvel, ainda tentando...'
 GuiScreenCancel = lCancel
 CreateAccountScreenUserName = 'Nome da conta'
 CreateAccountScreenPassword = 'Senha'
@@ -195,8 +195,9 @@ CRBootedReasons = {
  BootedOutOfTime: 'Desculpe, voc\xc3\xaa ficou sem tempo para jogar.'
 }
 CRBootedReasonUnknownCode = 'Houve um problema inesperado (c\xc3\xb3digo de erro %s). A conex\xc3\xa3o falhou, mas voc\xc3\xaa ainda deve conseguir conectar-se novamente para voltar ao jogo.'
+CRBootedAdditionalInfo = '\n\nInforma\xc3\xa7\xc3\xb5es adicionais\n{}'
 CRTryConnectAgain = '\n\nTentar conectar-se novamente?'
-CRToontownUnavailable = 'Toontown parece estar temporariamente indispon\xc3\xadvel, ainda tentando...'
+CRToontownUnavailable = 'O servidor parece estar temporariamente indispon\xc3\xadvel, ainda tentando...'
 CRToontownUnavailableCancel = lCancel
 CRNameCongratulations = 'PARAB\xc3\x89NS!!'
 CRNameAccepted = 'O seu nome foi\naprovado pelo Conselho de Toons.\n\nA partir de agora,\nvoc\xc3\xaa ter\xc3\xa1 o nome\n\'%s\''
@@ -206,7 +207,7 @@ CRServerConstantsTryAgain = 'N\xc3\xa3o foi poss\xc3\xadvel contatar %s.\n\nO se
 CRServerDateTryAgain = 'N\xc3\xa3o foi poss\xc3\xadvel obter a data do servidor de %s. Tentar novamente?'
 AfkForceAcknowledgeMessage = 'O seu Toon ficou com sono e foi para a cama.'
 PeriodTimerWarning = 'O seu limite de tempo em Toontown neste m\xc3\xaas est\xc3\xa1 quase no fim!'
-PeriodForceAcknowledgeMessage = 'Voc\xc3\xaa usou todos os seus minutos dispon\xc3\xadveis em Toontown neste m\xc3\xaas. Volte e jogue mais no pr\xc3\xb3ximo m\xc3\xaas!'
+PeriodForceAcknowledgeMessage = 'Desculpe, voc\xc3\xaa usou todo o seu tempo dispon\xc3\xadvel. Por favor, saia para comprar mais.'
 CREnteringToontown = 'Entrando em Toontown...'
 DownloadWatcherUpdate = 'Fazendo o download de %s'
 DownloadWatcherInitializing = 'Inicializando Download...'
@@ -283,7 +284,7 @@ SCMenuJellybeanJam = 'SEMANA DAS BALINHAS'
 SCMenuHalloween = 'DIAS DAS BRUXAS'
 SCMenuWinter = 'INVERNO'
 SCMenuSellbotInvasion = 'INVAS\xc3\x83O DOS R\xc3\x94BOS VENDEDORES'
-SCMenuFieldOffice = 'ESCRIT\xc3\x93RIO DE CAMPO'
+SCMenuFieldOffice = 'ESCRIT\xc3\x93RIOS DE CAMPO'
 SCMenuIdesOfMarch = 'VERDE'
 FriendSecretNeedsPasswordWarningTitle = 'Controles dispon\xc3\xadveis aos pais'
 FriendSecretNeedsParentLoginWarning = 'Para conseguir ou digitar um C\xc3\xb3digo de Amigo Verdadeiro, um dos seus pais ou respons\xc3\xa1veis precisa fazer o login. Voc\xc3\xaa pode desativar esta pergunta alterando suas op\xc3\xa7\xc3\xb5es de Amigos Verdadeiros.'
@@ -303,7 +304,8 @@ FriendSecretGotSecret = 'Este \xc3\xa9 o seu novo C\xc3\xb3digo de Amigos Verdad
 FriendSecretTooMany = 'Sinto muito, voc\xc3\xaa n\xc3\xa3o pode ter mais c\xc3\xb3digo de Amigos Verdadeiros hoje. Voc\xc3\xaa j\xc3\xa1 obteve mais do que a parte que lhe cabia!\n\nTente novamente amanh\xc3\xa3.'
 FriendSecretTryingSecret = 'Tentando usar C\xc3\xb3digo de Amigos Verdadeiros. . .'
 FriendSecretEnteredSecretSuccess = 'Agora, voc\xc3\xaa \xc3\xa9 Amigo verdadeiro de %s!'
-FriendSecretTimeOut = 'Sinto muitos, segredos n\xc3\xa3o est\xc3\xa3o funcionando agora.'
+FriendSecretTimeOut = 'Sinto muitos, c\xc3\xb3digos de amigos verdadadeiros n\xc3\xa3o est\xc3\xa3o funcionando agora.'
+FriendSecretTimeOutRetro = 'Sinto muitos, segredos n\xc3\xa3o est\xc3\xa3o funcionando agora.'
 FriendSecretEnteredSecretUnknown = 'Este C\xc3\xb3digo de Amigos Verdadeiros n\xc3\xa3o existe. Tem certeza de que digitou certo?\n\nSe voc\xc3\xaa tiver digitado certo, ele pode ter expirado. Pe\xc3\xa7a ao seu amigo para pegar outro C\xc3\xb3digo de Amigos Verdadeiros para voc\xc3\xaa (ou pegue um novo voc\xc3\xaa mesmo e d\xc3\xaa ao seu amigo).'
 FriendSecretEnteredSecretFull = 'Voc\xc3\xaa n\xc3\xa3o pode fazer amizade com %s porque um de voc\xc3\xaas dois possui amigos demais na lista.'
 FriendSecretEnteredSecretFullNoName = 'Voc\xc3\xaas n\xc3\xa3o podem fazer amizade porque um de voc\xc3\xaas dois possui amigos demais na lista.'
@@ -318,8 +320,11 @@ FriendSecretDetermineSecretAccount = 'Conta'
 FriendSecretDetermineSecretAccountRollover = 'Um amigo em toda a rede Disney.com.br'
 GuildMemberTitle = 'Op\xc3\xa7\xc3\xb5es de Membros'
 GuildMemberPromote = 'Fazer Oficial'
+GuildMemberPromoteInvite = 'Fazer Veterano'
+GuildMemberDemoteInvite = 'Rebaixar para Veterano'
 GuildMemberGM = 'Fazer Mestre da Guilda'
-GuildMemberDemote = 'Rebaixar'
+GuildMemberGMConfirm = 'Confirmado'
+GuildMemberDemote = 'Rebaixar para Membro'
 GuildMemberKick = 'Ejeitar Membro'
 GuildMemberCancel = lCancel
 GuildMemberOnline = 'tem entrado online.'
@@ -335,6 +340,7 @@ GuildRedeemErrorInvalidToken = 'Sinto muito, que o c\xc3\xb3digo est\xc3\xa1 inv
 GuildRedeemErrorGuildFull = 'Sinto muito, esta guilda j\xc3\xa1 tem muitos membros.'
 FriendInviteeTooManyFriends = '%s quer fazer amizade com voc\xc3\xaa, mas voc\xc3\xaa j\xc3\xa1 tem muitos amigos em sua lista!'
 FriendInviteeInvitation = '%s quer fazer amizade com voc\xc3\xaa.'
+FriendInviteeInvitationPlayer = 'O jogador de %s gostaria de ser seu amigo.'
 FriendNotifictation = '%s \xc3\xa9 agora seu amigo.'
 FriendInviteeOK = lYes
 FriendInviteeNo = lNo
@@ -348,7 +354,6 @@ GuildInviterNo = lNo
 GuildInviterCancel = lCancel
 GuildInviterYes = lYes
 GuildInviterTooFull = 'A guilda atingiu o tamanho m\xc3\xa1ximo.'
-GuildInviterNo = lNo
 GuildInviterClickToon = 'Clique no pirata que voc\xc3\xaa deseja convidar.'
 GuildInviterTooMany = 'Isto \xc3\xa9 um bug'
 GuildInviterNotAvailable = '%s est\xc3\xa1 ocupado agora correto; tente novamente mais tarde.'
@@ -377,6 +382,7 @@ FriendOffline = 'saiu e est\xc3\xa1 off-line.'
 FriendInviterOK = lOK
 FriendInviterCancel = lCancel
 FriendInviterStopBeingFriends = 'Interromper amizade'
+FriendInviterConfirmRemove = 'Remova'
 FriendInviterYes = lYes
 FriendInviterNo = lNo
 FriendInviterClickToon = 'Clique no Toon com o qual deseja fazer amizade.'
@@ -386,6 +392,8 @@ FriendInviterPlayerTooMany = 'Voc\xc3\xaa tem amigos jogadores demais em sua lis
 FriendInviterNotYet = 'Deseja fazer amizade com %s?'
 FriendInviterCheckAvailability = 'Verificando se %s est\xc3\xa1 dispon\xc3\xadvel.'
 FriendInviterNotAvailable = '%s est\xc3\xa1 ocupado(a) agora; tente novamente mais tarde.'
+FriendInviterCantSee = 'Isso s\xc3\xb3 funciona se voc\xc3\xaa puder ver %s.'
+FriendInviterNotOnline = 'Isso s\xc3\xb3 funciona se %s estiver online'
 FriendInviterNotOpen = '%s n\xc3\xa3o tem um bate-papo aberto, use segredos para fazer amigos'
 FriendInviterWentAway = '%s saiu.'
 FriendInviterAlready = '%s j\xc3\xa1 \xc3\xa9 seu(sua) amigo(a).'
@@ -398,7 +406,7 @@ FriendInviterFriendsNoMore = '%s n\xc3\xa3o \xc3\xa9 mais seu(sua) amigo(a).'
 FriendInviterSelf = 'Voc\xc3\xaa j\xc3\xa1 tem amizade com voc\xc3\xaa mesmo(a)!'
 FriendInviterIgnored = '%s est\xc3\xa1 ignorando voc\xc3\xaa.'
 FriendInviterAsking = 'Pedindo a %s para fazer amizade com voc\xc3\xaa.'
-FriendInviterFriendSaidYes = '%s disse sim!'
+FriendInviterFriendSaidYes = 'Agora voc\xc3\xaa \xc3\xa9 amigo de %s!'
 FriendInviterPlayerFriendSaidYes = 'Agora, voc\xc3\xaa fez amizade com o jogador de %s, %s!'
 FriendInviterFriendSaidNo = '%s agradece, mas disse n\xc3\xa3o.'
 FriendInviterFriendSaidNoNewFriends = '%s n\xc3\xa3o est\xc3\xa1 procurando novos amigos no momento.'
@@ -859,8 +867,8 @@ SuitFaceoffTaunts = {'b': ['Voc\xc3\xaa tem uma doa\xc3\xa7\xc3\xa3o para mim?',
 SpeedChatStaticText = {1: lYes,
  2: lNo,
  3: lOK,
- 4: 'CHAT R\xc3\x81PIDO PLUS',
- 100: 'Oi!',
+ 4: 'CHAT R\xc3\x81PIDO PLUS'}
+SpeedChatStaticTextToontown = {100: 'Oi!',
  101: 'Ol\xc3\xa1!',
  102: 'E a\xc3\xad?',
  103: '\xc3\x94pa!',
@@ -989,7 +997,7 @@ SpeedChatStaticText = {1: lYes,
  1108: 'Vamos para o %s!' % lDaisyGardens,
  1109: 'Vamos para %s!' % lTheBrrrgh,
  1110: 'Vamos para a %s!' % lDonaldsDreamland,
- 1111: 'Vamos para a minha casa!',
+ 1111: 'Vamos para o %s!' % lGoofySpeedway,
  1112: 'Vamos para a minha casa!',
  1113: 'Vamos para a sua casa!',
  1114: 'Vamos para o Quartel do Rob\xc3\xb4 Vendedor!',
@@ -1008,6 +1016,7 @@ SpeedChatStaticText = {1: lYes,
  1127: 'Vamos para o Quartel do Rob\xc3\xb4 Chefe!',
  1128: 'Vamos lutar com o Presidente!',
  1129: 'Vamos para o Campo de Golfe Cog!',
+ 1130: 'Vamos assumir um Escrit\xc3\xb3rio de Campo!',
  1200: 'Em que Tarefa Toon voc\xc3\xaa est\xc3\xa1 trabalhando?',
  1201: 'Vamos trabalhar nisto.',
  1202: 'Isto n\xc3\xa3o \xc3\xa9 o que estou procurando.',
@@ -1018,9 +1027,9 @@ SpeedChatStaticText = {1: lYes,
  1207: 'Preciso de mais pe\xc3\xa7as de vestimentas de Cogs.',
  1208: 'N\xc3\xa3o \xc3\xa9 disso que voc\xc3\xaa precisa.',
  1209: 'Achei o que voc\xc3\xaa precisa.',
- 1210: 'Eu preciso de mais Cograna.',
+ 1210: 'Eu preciso de mais d\xc3\xb3aleres de Cog.',
  1211: 'Eu preciso de mais Avisos ao J\xc3\xbari.',
- 1212: 'Preciso de mais A\xc3\xa7\xc3\xb5es.',
+ 1212: 'Eu preciso de mais O\xc3\xa7\xc3\xb5es de Estoque.',
  1213: 'Eu preciso de mais Pe\xc3\xa7as de Vestimenta de Rob\xc3\xb4 Mercen\xc3\xa1rio.',
  1214: 'Eu preciso de mais Pe\xc3\xa7as de Vestimenta de Rob\xc3\xb4 da Lei.',
  1215: 'Preciso de mais Pe\xc3\xa7as de Rob\xc3\xb4 Chefe.',
@@ -1124,7 +1133,7 @@ SpeedChatStaticText = {1: lYes,
  1904: 'Vamos nos encontrar no Sal\xc3\xa3o.',
  1905: 'Vamos nos encontrar no corredor fora do sal\xc3\xa3o.',
  1906: 'Vamos nos encontrar no corredor fora do sal\xc3\xa3o.',
- 1907: 'Vamos nos encontrar na Sala de cogs.',
+ 1907: 'Vamos nos encontrar na Sala de Cogs.',
  1908: 'Vamos nos encontrar na Sala da caldeira.',
  1909: 'Vamos nos encontrar na Passarela leste.',
  1910: 'Vamos nos encontrar no Misturador de tinta.',
@@ -1873,7 +1882,8 @@ SpeedChatStaticText = {1: lYes,
  30352: 'Mostramos \xc3\xa0queles Cogs quem manda!',
  30353: 'Bom trabalho ajudando a acabar com as invas\xc3\xb5es Cog!',
  30354: 'Aposto que isso est\xc3\xa1 deixando os Cogs loucos!',
- 30356: 'Meu time venceu o Cog-O-Guerra!',
+ 30355: 'Vamos jogar Cog-De-Guerra!'
+ 30356: 'Meu time venceu o Cog-De-Guerra!',
  30357: '\xc3\x89 bom ter hidrantes, latas de lixo e caixas de correio aqui!',
  30358: 'Gosto do bal\xc3\xa3o do Rabisco mordendo o cog!',
  30359: 'Gosto do bal\xc3\xa3o do Cog coberto de sorvete!',
@@ -1900,8 +1910,8 @@ SpeedChatStaticText = {1: lYes,
  30418: '\xc3\x89 o chefe!',
  30450: '\xc3\x89 f\xc3\xa1cil ser verde!',
  30451: 'Visite Jeans Feij\xc3\xa3o Verde e voc\xc3\xaa tamb\xc3\xa9m pode ser verde!',
- 30452: 'Fica na Rua dos Carvalhos em Jardins da Margarida.',
- 50001: 'Sim',
+ 30452: 'Fica na Rua dos Carvalhos em Jardins da Margarida.'}
+SpeedChatStaticTextPirates = {50001: 'Sim',
  50002: 'N\xc3\xa3o',
  50003: 'Arrr!',
  50004: 'Sim, sim, Capit\xc3\xa3o!',
@@ -1915,8 +1925,6 @@ SpeedChatStaticText = {1: lYes,
  50106: 'Ei, voc\xc3\xaa!',
  50107: 'Claro, claro, Capit\xc3\xa3o!',
  50108: 'Ande na prancha!',
- 50109: 'Continue!',
- 50110: 'N\xc3\xa3o vai sobrar ningu\xc3\xa9m para contar a hist\xc3\xb3ria....',
  50700: 'Ah!',
  50701: 'Ah, amigo!',
  50702: 'Yo-Ho-Ho',
@@ -1928,7 +1936,7 @@ SpeedChatStaticText = {1: lYes,
  50900: 'Como vai, amigo?',
  50901: '',
  51000: '\xc3\x89 como se o c\xc3\xa9u estivesse chovendo dobr\xc3\xb5es de ouro!',
- 51001: '',
+ 51001: 'Que o vento sopre forte, o sol aque\xc3\xa7a nossas faces e os canh\xc3\xb5es disparem certeiros!',
  51100: 'Eu estive navegando em \xc3\xa1guas agitadas neste dia.',
  51200: 'Minhas desculpas, cara.',
  51201: 'Desculpe.',
@@ -1968,9 +1976,6 @@ SpeedChatStaticText = {1: lYes,
  51421: 'Bonito agora, homens!',
  50400: 'Vamos zarpar.',
  50401: 'Vamos sair daqui.',
- 50402: 'Vamos sair daqui.',
- 50403: 'Vamos sair daqui.',
- 50404: 'Vamos sair daqui.',
  51500: 'Vamos navegar para Port Royal.',
  51501: 'Vamos navegar para Tortuga.',
  51502: 'Vamos navegar para Padres Del Fuego.',
@@ -2003,7 +2008,13 @@ SpeedChatStaticText = {1: lYes,
  50202: 'Te vejo no fundo do mar!',
  50203: 'Patife!',
  50204: 'Marujo de terra firme!',
- 50205: 'Tolo distra\xc3\xaddo!',
+ 50205: 'Tolo confuso',
+ 50206: 'Voc\xc3\xaa precisa de uma espada afiada e intelig\xc3\xaancia mais afiada.'
+ 50207: 'Voc\xc3\xaa est\xc3\xa1 a um dobr\xc3\xa3o de um companheiro de casco completo!'
+ 50208: 'Cuidado com sua l\xc3\xadngua ou vou conserv\xc3\xa1-la com sal marinho!',
+ 50209: 'Toca-me e saqueie e voc\xc3\xaa ganha a bota!',
+ 50210: 'O horizonte est\xc3\xa1 t\xc3\xa3o vazio quanto sua cabe\xc3\xa7a.',
+ 50211: 'Voc\xc3\xaa \xc3\xa9 uma lona t\xc3\xadmida de uma vela cheia, n\xc3\xa3o \xc3\xa9, companheiro?',
  50300: 'Bom tiro, amigo!',
  50301: 'Um golpe bem dado!',
  50302: 'Belo tiro!',
@@ -2021,8 +2032,45 @@ SpeedChatStaticText = {1: lYes,
  51904: 'Salvo pelo rio.',
  52600: 'Bata em mim.',
  52601: 'Posso contratar outro revendedor?',
+ 53101: 'Peguei um peixe!',
+ 53102: 'Vi um peixe lend\xc3\xa1rio!',
+ 53103: 'O que voc\xc3\xaa pescou?',
+ 53104: 'Isso vai virar uma hist\xc3\xb3ria de baleia!',
+ 53105: 'Foi uma beleza!',
+ 53106: 'Arr, o mar est\xc3\xa1 traiçoeiro hoje.',
+ 53107: 'Que farta pesca!', 
+ 53110: 'Voc\xc3\xaa tem a isca lend\xc3\xa1ria?',
+ 53111: 'Voc\xc3\xaa j\xc3\xa1 pescou um peixe lend\xc3\xa1rio?',
+ 53112: 'Voc\xc3\xaa sabe navegar em um barco de pesca?',
+ 53113: 'Onde est\xc3\xa1 o Mestre da Pesca?',
+ 53114: 'Voc\xc3\xaa completou sua cole\xc3\xa7\xc3\xa3o de peixes?',
+ 53120: 'Atire no meu alvo!',
+ 53121: 'Atire no navio mais pr\xc3\xb3ximo da costa!',
+ 53122: 'Tem um navio fugindo!',
+ 53123: 'Atire nos navios grandes!',
+ 53124: 'Atire nos navios pequenos!',
+ 53125: 'Mais est\xc3\xa3o chegando!',
+ 53126: 'N\xc3\xa3o vamos durar muito mais!',
+ 53127: 'Atire nos barris!',
+ 53128: 'Temos muni\xc3\xa7\xc3\xa3o nova!',
+ 53129: 'Defesa resistente, companheiros!',
+ 53141: 'Olhe a po\xc3\xa7\xc3\xa3o que eu fiz!',
+ 53142: 'Voc\xc3\xaa completou sua cole\xc3\xa7\xc3\xa3o de po\xc3\xa7\xc3\xb5es?',
+ 53143: 'Onde est\xc3\xa1 o cigano?',
+ 53144: 'Que po\xc3\xa7\xc3\xa3o \xc3\xa9 essa?',
+ 53145: 'Esta po\xc3\xa7\xc3\xa3o foi f\xc3\xa1cil o suficiente.',
+ 53146: 'Esta po\xc3\xa7\xc3\xa3o foi difícil de preparar, eu te digo!',
+ 53160: 'Precisamos de algu\xc3\xa9m para bombear o por\xc3\xa3o!',
+ 53161: 'Precisamos de algu\xc3\xa9m para esfregar!',
+ 53162: 'Precisamos de algu\xc3\xa9m para serrar!',
+ 53163: 'Precisamos de algu\xc3\xa9m para reforçar!',
+ 53164: 'Precisamos de algu\xc3\xa9m para martelar!',
+ 53165: 'Precisamos de algu\xc3\xa9m para remendar!',
+ 53166: 'Eu faço isso!',
+ 53167: 'Continue assim, este navio n\xc3\xa3o vai se consertar sozinho!',
+ 53168: '\xc3\x93timo trabalho consertando o navio!',
  52100: 'Quer se agrupar?',
- 52101: 'Juntar-se \xc3\xa0 minha tripula\xc3\xa7\xc3\xa3o?',
+ 52101: 'Juntar-se à minha tripula\xc3\xa7\xc3\xa3o?',
  52200: 'Lute contra alguns esqueletos?',
  52201: 'Lute contra alguns caranguejos?',
  52300: 'Que tal um jogo de Mayhem?',
@@ -2030,6 +2078,15 @@ SpeedChatStaticText = {1: lYes,
  52302: 'Quer iniciar um jogo Mayhem?',
  52303: 'Quer iniciar um jogo de batalha em equipe?',
  52304: 'Junte-se ao meu jogo de batalha em equipe.',
+ 52350: 'Junte-se à minha Defesa de Canh\xc3\xa3o.',
+ 52351: 'Quer começar uma Defesa de Canh\xc3\xa3o?',
+ 52352: 'Voc\xc3\xaa pode me dar uma m\xc3\xa3o com o Reparo?',
+ 52353: 'Precisamos consertar o navio agora!',
+ 52354: 'Quer pescar?',
+ 52355: 'Quer ir pescar comigo?',
+ 52356: 'Junte-se à minha tripula\xc3\xa7\xc3\xa3o para pescar?',
+ 52357: 'Hora de preparar algumas po\xc3\xa7\xc3\xb5es!',
+ 52358: 'Voc\xc3\xaa deveria tentar preparar po\xc3\xa7\xc3\xb5es.',
  52000: '',
  52000: '',
  52700: '',
@@ -2120,6 +2177,7 @@ SpeedChatStaticText = {1: lYes,
  65000: 'Sim',
  65001: 'N\xc3\xa3o',
  60909: 'Verifique a m\xc3\xa3o'}
+SpeedChatStaticText = SpeedChatStaticTextCommon
 Emotes_Root = 'EMO\xc3\x87\xc3\x95ES'
 Emotes_Dances = 'Dan\xc3\xa7as'
 Emotes_General = 'Geral'
@@ -2131,9 +2189,9 @@ Emote_CombatDenied = 'N\xc3\xa3o \xc3\xa9 poss\xc3\xadvel se emocionar ao lutar.
 Emote_CannonDenied = 'N\xc3\xa3o \xc3\xa9 poss\xc3\xadvel se emocionar ao usar um canh\xc3\xa3o.'
 Emote_SwimDenied = 'N\xc3\xa3o \xc3\xa9 poss\xc3\xadvel se emocionar ao nadar.'
 Emote_ParlorGameDenied = 'N\xc3\xa3o \xc3\xa9 poss\xc3\xadvel se emocionar durante um jogo de sal\xc3\xa3o.'
-Emotes = (60505, 
+Emotes = (60505,
  60506,
- 60509, 
+ 60509,
  60510,
  60511,
  60516,
@@ -2150,16 +2208,27 @@ Emotes = (60505,
  60529,
  60530,
  60602,
- 60668,
+ 60607,
+ 60611,
  60614,
+ 60615,
  60622,
+ 60627,
+ 60629,
+ 60632,
+ 60636,
+ 60638,
  60640,
  60644,
  60652,
+ 60654,
  60657,
+ 60658,
+ 60663,
  60664,
  60665,
  60666,
+ 60668,
  60669,
  60612,
  60661,
@@ -2169,10 +2238,14 @@ Emotes = (60505,
  60654,
  60630,
  60670,
- 60633, 
+ 60633,
  60676,
+ 60677,
  65000,
- 65001)
+ 65001,
+ 60517,
+ 60678,
+ 60909)
 SCFactoryMeetMenuIndexes = {1903,
  1904,
  1906,
@@ -2562,14 +2635,17 @@ CustomSCStrings = {10: 'Bom...',
  11009: 'Um bom feriado para voc\xc3\xaa!',
  11010: 'Feliz Dia do Peru!',
  11011: 'Ho! Ho! Ho!',
- 11012: '\'Noel\' problema.',
- 11013: '\'Noel\' surpresa nenhuma.',
+ 11012: "\'Noel\' problema.",
+ 11013: "\'Noel\' surpresa nenhuma.",
  11014: 'Deixa bater o sino, pequenino!',
  11015: 'Raspa o tacho.',
  11016: 'Feliz Natal!',
  11017: 'Com \'nataleza\'!',
  11018: 'At\xc3\xa9 o Natal, tudo bem!',
- 11019: 'Voc\xc3\xaa vai se \'arrenapender\'!',
+ 11019: "Voc\xc3\xaa vai se \'arrenapender\'!",
+ 11020: 'Tenha um inverno maravilhoso!',
+ 11021: 'As decora\xc3\xa7\xc3\xb5es da festa de fim de ano s\xc3\xa3o Toontastico!',
+ 11022: 'Soldados Toons est\xc3\xa3o organizando festas de fim de ano!',
  12000: 'Fica comigo!',
  12001: 'Vem ser meu amorzinho!',
  12002: 'Feliz Dia dos Namorados!',
@@ -2587,6 +2663,11 @@ CustomSCStrings = {10: 'Bom...',
  12014: 'Batatinha quando nasce...',
  12015: 'Esparrama pelo ch\xc3\xa3o...',
  12016: 'Que gracinha!',
+ 12050: 'EU AMO acabar com Cogs!',
+ 12051: 'Voc\xc3\xaa \xc3\xa9 um estouro!',
+ 12052: 'S\xc3\xb3 tenho olhos para voc\xc3\xaa!',
+ 12053: 'Voc\xc3\xaa \xc3\xa9 mais doce do que uma bala!',
+ 12054: 'Eu ADORARIA ter voc\xc3\xaa em minha Festa Dia dos namorados!',
  13000: 'Tenho voc\xc3\xaa no cora\xc3\xa7\xc3\xa3o!',
  13001: 'Feliz P\xc3\xa1scoa!',
  13002: 'Voc\xc3\xaa n\xc3\xa3o est\xc3\xa1 vestindo marrom-chocolate!',
@@ -2696,6 +2777,7 @@ NameShopContinueSubmission = 'Continuar envio'
 NameShopChooseAnother = 'Escolha outro nome'
 NameShopToonCouncil = 'O Conselho de Toons\nanalisar\xc3\xa1 o seu\nnome.' + 'A an\xc3\xa1lise pode\nlevar alguns dias.\nEnquanto voc\xc3\xaa espera\nseu nome ser\xc3\xa1\n'
 PleaseTypeName = 'Digite o seu nome:'
+ToonAlreadyExists = '%s j\xc3\xa1 existe'
 AllNewNames = 'Todos os novos nomes\ndevem ser aprovados\npelo Conselho de Toons.'
 NameShopNameRejected = 'O nome\nenviado foi\nrejeitado.'
 NameShopNameAccepted = 'Parab\xc3\xa9ns!\nO nome\nenviado foi\naceito!'
@@ -2711,7 +2793,7 @@ CopyrightedNames = ('mickey',
  'minnie mouse',
  'minniemouse',
  'donald',
- 'donald duck',
+ 'pato donald',
  'donaldduck',
  'pluto',
  'pateta')
@@ -2804,15 +2886,12 @@ def timeElapsedString(timeDelta):
             return '1 dia atr\xc3\xa1s'
         else:
             return '%s dias atr\xc3\xa1s' % timeDelta.days
-
     elif timeDelta.seconds / 3600 > 0:
         if timeDelta.seconds / 3600 == 1:
             return '1 hora atr\xc3\xa1s'
         else:
             return '%s horas atr\xc3\xa1s' % (timeDelta.seconds / 3600)
-
-    else:
-        if timeDelta.seconds / 60 < 2:
+    elif timeDelta.seconds / 60 < 2:
             return '1 minuto atr\xc3\xa1s'
         else:
             return '%s minutos atr\xc3\xa1s' % (timeDelta.seconds / 60)
