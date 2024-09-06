@@ -26,7 +26,7 @@ DialogYes = lYes
 DialogNo = lNo
 DialogDoNotShowAgain = 'N\xc3\xa3o\nExibir de Novo'
 WhisperNoLongerFriend = '%s saiu da sua lista de amigos.'
-WhisperNowSpecialFriend = '%s agora \xc3\xa9 seu amigo verdadeiro!'
+WhisperNowSpecialFriend = '%s agora \xc3\xa9 seu amigo secreto!'
 WhisperComingToVisit = '%s est\xc3\xa1 vindo visitar voc\xc3\xaa.'
 WhisperFailedVisit = '%s tentou visitar voc\xc3\xaa.'
 WhisperTargetLeftVisit = '%s foi para algum outro lugar. Tente novamente!'
@@ -55,7 +55,7 @@ ChatManagerWhisperTo = 'Cochichar com:'
 ChatManagerWhisperToName = 'Cochichar com:\n%s'
 ChatManagerCancel = lCancel
 ChatManagerWhisperOffline = '%s est\xc3\xa1 off-line.'
-OpenChatWarning = 'Para se tornar Amigo verdadeiro de algu\xc3\xa9m, clique na pessoa e selecione "Amigos Verdadeiros" no painel de detalhes.\n\nO recurso Chat r\xc3\xa1pido Plus pode tamb\xc3\xa9m estar ativado, qual permite us\xc3\xa1rios para bater um papo por digitando palavras encontrado no Dicion\xc3\xa1rio Chat R\xc3\xa1pido Plus.\n\nPara ativar este recurso ou para aprender mais sobre ele, saia de Toontown e clique em "Op\xc3\xa7\xc3\xb5es da conta" na p\xc3\xa1gina da web de Toontown.  '
+OpenChatWarning = 'Para se tornar Amigo secreto de algu\xc3\xa9m, clique na pessoa e selecione "Amigos Secretos" no painel de detalhes.\n\nO recurso Chat r\xc3\xa1pido Plus pode tamb\xc3\xa9m estar ativado, qual permite us\xc3\xa1rios para bater um papo por digitando palavras encontrado no Dicion\xc3\xa1rio Chat R\xc3\xa1pido Plus.\n\nPara ativar este recurso ou para aprender mais sobre ele, saia de Toontown e clique em "Op\xc3\xa7\xc3\xb5es da conta" na p\xc3\xa1gina da web de Toontown.  '
 OpenChatWarningOK = lOK
 UnpaidChatWarning = 'Depois que voc\xc3\xaa assinar o servi\xc3\xa7o, poder\xc3\xa1 ativar este bot\xc3\xa3o para conversar com seus amigos usando o teclado. At\xc3\xa9 l\xc3\xa1, voc\xc3\xaa deve conversar com os outros Toons usando o Chat r\xc3\xa1pido.'
 UnpaidChatWarningPay = 'Assine j\xc3\xa1!'
@@ -68,25 +68,26 @@ PaidParentPasswordUKWarning = 'Depois que o Chat estiver ativado, voc\xc3\xaa po
 PaidParentPasswordUKWarningSet = 'Ativar Chat agora!'
 PaidParentPasswordUKWarningContinue = 'Continuar jogando'
 NoSecretChatWarningTitle = 'Controles dispon\xc3\xadveis aos pais'
-NoSecretChatWarning = 'Para conversar com um amigo, o recurso Amigos verdadeiros deve estar ativado. As crian\xc3\xa7as precisam que seus pais visitem o site de Toontown para conhecer o recurso Amigos Verdadeiros.'
-RestrictedSecretChatWarning = 'Para pegar ou digitar um c\xc3\xb3digo de amigo verdadeiro, fa\xc3\xa7a login com a conta de pais. Voc\xc3\xaa pode desativar esta solicita\xc3\xa7\xc3\xa3o alterando as suas op\xc3\xa7\xc3\xb5es de Amigos verdadeiros.'
+NoSecretChatWarning = 'Para conversar com um amigo, o recurso Amigos secretos deve estar ativado. As crian\xc3\xa7as precisam que seus pais visitem o site de Toontown para conhecer o recurso Amigos Secretos.'
+RestrictedSecretChatWarning = 'Para pegar ou digitar um c\xc3\xb3digo de amigo secreto, fa\xc3\xa7a login com a conta de pais. Voc\xc3\xaa pode desativar esta solicita\xc3\xa7\xc3\xa3o alterando as suas op\xc3\xa7\xc3\xb5es de Amigos secretos.'
 NoSecretChatWarningOK = lOK
 NoSecretChatWarningCancel = lCancel
 NoSecretChatWarningWrongPassword = 'Esta n\xc3\xa3o \xc3\xa9 a conta de pais. Fa\xc3\xa7a login com a conta de pais que \xc3\xa9 vinculada para esta conta.'
-NoSecretChatAtAllTitle = 'Abrir Chat com Amigos Verdadeiros'
-NoSecretChatAtAll = 'O recurso Abrir Chat com Amigos Verdadeiros permite amigos da vida-real para conversar abertamente com uns aos outros por meio de um c\xc3\xb3digo de amigos verdadeiros que deve ser compartilhado fora do jogo\n\nPara ativar este recurso ou para aprender mais sobre ele, saia de Toontown e clique em "Op\xc3\xa7\xc3\xb5es da conta" na p\xc3\xa1gina da web de Toontown.'
+NoSecretChatAtAllTitle = 'Abrir Chat com Amigos Secretos'
+NoSecretChatAtAll = 'O recurso Abrir Chat com Amigos Secretos permite amigos da vida-real para conversar abertamente com uns aos outros por meio de um c\xc3\xb3digo de amigos secretos que deve ser compartilhado fora do jogo\n\nPara ativar este recurso ou para aprender mais sobre ele, saia de Toontown e clique em "Op\xc3\xa7\xc3\xb5es da conta" na p\xc3\xa1gina da web de Toontown.'
 NoSecretChatAtAllAndNoWhitelistTitle = 'Bot\xc3\xa3o de Chat'
-NoSecretChatAtAllAndNoWhitelist = 'Voc\xc3\xaa pode usar o bot\xc3\xa3o azul de chat para se comunicar com outros Toons usando o recurso Chat R\xc3\xa1pido Plus ou o recurso Abrir Chat com Amigos Verdadeiros.\n\nO recurso Chat r\xc3\xa1pido Plus \xc3\xa9 uma forma de tipo de chat que permitem usu\xc3\xa1rios para comunicarem por usar o dicion\xc3\xa1rio Disney Chat R\xc3\xa1pido Plus.\n\nO recurso Abrir Chat com Amigos Verdadeiros \xc3\xa9 uma forma de tipo de chat que permite amigos da vida-real para conversar abertamente com uns aos outros por meio de um c\xc3\xb3digo de amigos verdadeiros que deve ser compartilhado fora do jogo.\n\nPara ativar estes recursos ou para aprender mais sobre ele, saia de Toontown e clique em "Op\xc3\xa7\xc3\xb5es da conta" na p\xc3\xa1gina da web de Toontown.'
+NoSecretChatAtAllAndNoWhitelist = 'Voc\xc3\xaa pode usar o bot\xc3\xa3o azul de chat para se comunicar com outros Toons usando o recurso Chat R\xc3\xa1pido Plus ou o recurso Abrir Chat com Amigos Secretos.\n\nO recurso Chat r\xc3\xa1pido Plus \xc3\xa9 uma forma de tipo de chat que permitem usu\xc3\xa1rios para comunicarem por usar o dicion\xc3\xa1rio Disney Chat R\xc3\xa1pido Plus.\n\nO recurso Abrir Chat com Amigos Secretos \xc3\xa9 uma forma de tipo de chat que permite amigos da vida-real para conversar abertamente com uns aos outros por meio de um c\xc3\xb3digo de amigos secretos que deve ser compartilhado fora do jogo.\n\nPara ativar estes recursos ou para aprender mais sobre ele, saia de Toontown e clique em "Op\xc3\xa7\xc3\xb5es da conta" na p\xc3\xa1gina da web de Toontown.'
 NoSecretChatAtAllOK = lOK
-ChangeSecretFriendsOptions = 'Alterar op\xc3\xa7\xc3\xb5es de Amigos Verdadeiros'
-ChangeSecretFriendsOptionsWarning = '\nInsira a senha conta de pais para alterar suas op\xc3\xa7\xc3\xb5es de Amigos verdadeiros.'
-ActivateChatTitle = 'Op\xc3\xa7\xc3\xb5es de Amigos verdadeiros'
+ChangeSecretFriendsOptions = 'Alterar op\xc3\xa7\xc3\xb5es de Amigos Secretos'
+ChangeSecretFriendsOptionsWarning = '\nInsira a senha conta de pais para alterar suas op\xc3\xa7\xc3\xb5es de Amigos secretos.'
+ActivateChatTitle = 'Op\xc3\xa7\xc3\xb5es de Amigos secretos'
 WhisperToFormat = 'Para %s %s'
 WhisperToFormatName = 'Para %s'
 WhisperFromFormatName = '%s cochichos'
 ThoughtOhterFormatName = '%s pensa'
 ThoughtSelfFormatName = 'Voc\xc3\xaa pensa'
-from panda3d.core import TextProperties, TextPropertiesManager
+from panda3d.core import TextProperties
+from panda3d.core import TextPropertiesManager
 shadow = TextProperties()
 shadow.setShadow(-0.025, -0.025)
 shadow.setShadowColor(0, 0, 0, 1)
@@ -115,7 +116,7 @@ TextPropertiesManager.getGlobalPtr().setProperties('preto', black)
 grey = TextProperties()
 grey.setTextColor(0.5, 0.5, 0.5, 1)
 TextPropertiesManager.getGlobalPtr().setProperties('cinza', grey)
-ActivateChat = 'O recurso Amigos Verdadeiros permite que um membro converse com outro membro apenas por meio de um c\xc3\xb3digo amigo verdadeiro que deve ser comunicado fora do jogo. O recurso Amigos Verdadeiros n\xc3\xa3o \xc3\xa9 moderado ou supervisionado.\n\nPor favor, escolha uma das op\xc3\xa7\xc3\xb5es do recurso Amigos Verdadeiros de Toontown:\n\n      \x01shadow\x01Sem O recurso Amigos Verdadeiros\x02 - Capacidade para fazer o recurso Amigos Verdadeiros \xc3\xa9 desativado.\n      Isso oferece o mais alto n\xc3\xadvel de controle.\n      \x01shadow\x01O recurso Amigos Verdadeiros restritos\x02 - Requer a senha conta de pais para fazer\n      cada novo recurso Amigo Secreto.\n\n      \x01shadow\x01O recurso Amigos Verdadeiros irrestritos\x02 - Depois de habilitado com a senha conta de pais,\n      n\xc3\xa3o \xc3\xa9 necess\xc3\xa1rio fornecer a senha de pais para fazer cada novo\n      o recurso Amigos Verdadeiros . \x01red\x01Esta op\xc3\xa7\xc3\xa3o n\xc3\xa3o \xc3\xa9 recomendada para menores de 13 anos.\x02\n\n\n\n\n\n\nAo ativar o recurso Amigos verdadeiros, voc\xc3\xaa reconhece que, apesar de haver alguns riscos inerentes a ele, voc\xc3\xaa foi informado de todos os riscos mencionados aqui, concordando em aceit\xc3\xa1-los.'
+ActivateChat = 'O recurso Amigos Secretos permite que um membro converse com outro membro apenas por meio de um c\xc3\xb3digo amigo secreto que deve ser comunicado fora do jogo. O recurso Amigos Secretos n\xc3\xa3o \xc3\xa9 moderado ou supervisionado.\n\nPor favor, escolha uma das op\xc3\xa7\xc3\xb5es do recurso Amigos Secretos de Toontown:\n\n      \x01shadow\x01Sem O recurso Amigos Secretos\x02 - Capacidade para fazer o recurso Amigos Secretos \xc3\xa9 desativado.\n      Isso oferece o mais alto n\xc3\xadvel de controle.\n      \x01shadow\x01O recurso Amigos Secretos restritos\x02 - Requer a senha conta de pais para fazer\n      cada novo recurso Amigo Secreto.\n\n      \x01shadow\x01O recurso Amigos Secretos irrestritos\x02 - Depois de habilitado com a senha conta de pais,\n      n\xc3\xa3o \xc3\xa9 necess\xc3\xa1rio fornecer a senha de pais para fazer cada novo\n      o recurso Amigos Secretos . \x01red\x01Esta op\xc3\xa7\xc3\xa3o n\xc3\xa3o \xc3\xa9 recomendada para menores de 13 anos.\x02\n\n\n\n\n\n\nAo ativar o recurso Amigos secretos, voc\xc3\xaa reconhece que, apesar de haver alguns riscos inerentes a ele, voc\xc3\xaa foi informado de todos os riscos mencionados aqui, concordando em aceit\xc3\xa1-los.'
 ActivateChatYes = 'Atualizar'
 ActivateChatNo = lCancel
 ActivateChatMoreInfo = 'Mais informa\xc3\xa7\xc3\xb5es'
@@ -132,12 +133,12 @@ PrivacyPolicyText_Intro = [' ']
 PrivacyPolicyClose = lClose
 SecretFriendsInfoPanelOk = lOK
 SecretFriendsInfoPanelClose = lClose
-SecretFriendsInfoPanelText = ['\nO recurso Abrir chat com Amigos verdadeiros\n\nO recurso Abrir chat com Amigos verdadeiros ativa um membro para conversar diretamente com outro no Toontown On-line da Disney (o "Servi\xc3\xa7o") depois que os membros estabelecerem uma conex\xc3\xa3o de Amigos verdadeiros. Quando o seu filho tentar usar o recurso Abrir chat com Amigos verdadeiros, solicitaremos que voc\xc3\xaa insira a sua Senha conta de pais para indicar seu consentimento para que a crian\xc3\xa7a use o recurso. Esta \xc3\xa9 uma descri\xc3\xa7\xc3\xa3o detalhada do processo de cria\xc3\xa7\xc3\xa3o de uma conex\xc3\xa3o de Abrir chat com Amigos verdadeiros entre os membros fict\xc3\xadcios chamados "Tails" e "Perninha". \n1. O respons\xc3\xa1vel por Tails e o respons\xc3\xa1vel por Perninha ativam o recurso Abrir chat com Amigos verdadeiros inserindo suas respectivas Senhas conta de pais (a) nas \xc3\xa1reas de Op\xc3\xa7\xc3\xb5es da conta do Servi\xc3\xa7o ou (b) quando for solicitado no jogo, em uma janela pop-up de Controles dispon\xc3\xadveis aos pais.\n2. Tails pede um C\xc3\xb3digo de Amigo verdadeiro (descrito abaixo) no Servi\xc3\xa7o.', 
- '\n3. O C\xc3\xb3digo de Amigo verdadeiro de Tails \xc3\xa9 comunicado a Perninha fora do Servi\xc3\xa7o. (O C\xc3\xb3digo de Amigo verdadeiro de Tails pode ser comunicado a Perninha diretamente por Tails ou indiretamente, se Tails revelar o C\xc3\xb3digo de Amigo verdadeiro a outra pessoa.)\n4. Perninha envia o C\xc3\xb3digo de Amigo verdadeiro de Tails ao Servi\xc3\xa7o dentro de 48 horas a partir da hora em que Tails solicitou o C\xc3\xb3digo de Amigo verdadeiro ao Servi\xc3\xa7o.\n5. Em seguida, o Servi\xc3\xa7o notifica Perninha de que Tails tornou-se sua Amiga verdadeira. Da mesma forma, o Servi\xc3\xa7o notifica Tails de que Perninha tornou-se seu Amigo verdadeiro. \n6. Tails e Perninha podem agora bater um papo aberto diretamente um com o outro at\xc3\xa9 um deles escolher cancelar o seu relacionamento como Amigo verdadeiro, ou at\xc3\xa9 que o recurso Abrir Chat com Amigos verdadeiros seja desativado para Tails ou Perninha por um dos respons\xc3\xa1veis. Ent\xc3\xa3o, a conex\xc3\xa3o de Amigos verdadeiros pode ser desativada a qualquer momento: (a) por um membro, que remove o Amigo verdadeiro de sua lista de amigos (conforme descrito no Servi\xc3\xa7o), ou (b) pelo respons\xc3\xa1vel pelo membro, que desativa o recurso Abrir chat com ', 
- '\nAmigos verdadeiros na \xc3\xa1rea Op\xc3\xa7\xc3\xb5es da conta do Servi\xc3\xa7o, seguindo as etapas definidas no recurso.\n\nUm C\xc3\xb3digo de Amigo verdadeiro \xc3\xa9 um c\xc3\xb3digo aleat\xc3\xb3rio, gerado por computador, que \xc3\xa9 atribu\xc3\xaddo a um membro espec\xc3\xadfico. O C\xc3\xb3digo de Amigo verdadeiro precisa ser usado para ativar a conex\xc3\xa3o de Amigo verdadeiro dentro de 48 horas a partir da hora em que o membro solicitou o C\xc3\xb3digo de Amigo verdadeiro; caso contr\xc3\xa1rio, o C\xc3\xb3digo de Amigo verdadeiro expirar\xc3\xa1 e n\xc3\xa3o poder\xc3\xa1 ser usado. Al\xc3\xa9m disso, s\xc3\xb3 se pode usar um simples C\xc3\xb3digo de Amigo verdadeiro para estabelecer uma conex\xc3\xa3o de Amigo verdadeiro. Para fazer conex\xc3\xb5es adicionais de Amigos verdadeiros, o membro precisar\xc3\xa1 solicitar mais c\xc3\xb3digos de Amigo verdadeiros, um para cada Amigo verdadeiro que quiser incluir.\n\nAs Amizades verdadeiras n\xc3\xa3o podem ser transferidas. Por exemplo, se Tails se tornar Amiga verdadeira de Perninha, e Perninha se tornar Amigo verdadeiro de J\xc3\xa9ssica, Tails n\xc3\xa3o se tornar\xc3\xa1 automaticamente Amiga verdadeira de J\xc3\xa9ssica. Para que Tails e J\xc3\xa9ssica\n',
- "\nse tornem Amigas verdadeiras, uma delas ter\xc3\xa1 que solicitar um novo C\xc3\xb3digo de Amigo verdadeiro ao Servi\xc3\xa7o e comunicar \xc3\xa0 outra.\n\nOs Amigos verdadeiros se comunicam entre si por meio de uma conversa interativa em formato livre. O conte\xc3\xbado da conversa \xc3\xa9 inserido diretamente pelo membro participante e \xc3\xa9 processado pelo Servi\xc3\xa7o, cuja opera\xc3\xa7\xc3\xa3o \xc3\xa9 realizada pelo Walt Disney Internet Group ('WDIG'), 500 S. Buena Vista St., Burbank, CA 91521-7691.  Embora aconselhamos os membros n\xc3\xa3o trocarem informa\xc3\xa7\xc3\xb5es pessoais como nome e sobrenome, e-mails, endere\xc3\xa7o postal ou n\xc3\xbameros de telefone ao usarem o recurso Abrir Chat com Amigos verdadeiros, n\xc3\xa3o podemos garantir que os membros seguir\xc3\xa3o a recomenda\xc3\xa7\xc3\xa3o e que tais informa\xc3\xa7\xc3\xb5es sejam preservadas. Embora o chat Amigos verdadeiros seja automaticamente filtrado para maioria dos palavr\xc3\xb5es, Abrir chat com amigos verdadeiros pode ser moderado e a Disney reserva-se o direito de moderar qualquer parte do Servi\xc3\xa7o que a Disney,\n",
- '\na seu exclusivo e absoluto crit\xc3\xa9rio, julgar necess\xc3\xa1rio. No entanto, como Abrir chat com Amigos verdadeiros nem sempre ser\xc3\xa1 moderado, se a conta de pais deixarem seus filhos usarem a conta com o recurso Abrir chat com Amigos verdadeiros ativado no Servi\xc3\xa7o, aconselhamos que eles mesmos supervisionem os filhos durante a brincadeira. Ao ativar o recurso Abrir chat com Amigos verdadeiros, a conta de pais reconhece que, apesar de haver alguns riscos inerentes ao recurso Abrir chat com amigos verdadeiros, a conta de pais foi informada de todos os riscos mencionados aqui, concordando em aceit\xc3\xa1-los, seja previs\xc3\xadvel ou n\xc3\xa3o. \n\nO WDIG n\xc3\xa3o usa o conte\xc3\xbado do chat Amigos verdadeiros para nenhum fim que n\xc3\xa3o seja a comunica\xc3\xa7\xc3\xa3o do conte\xc3\xbado ao amigo verdadeiro do membro, e n\xc3\xa3o revela tal conte\xc3\xbado a terceiros, exceto: (1) se exigido por lei; por exemplo, para cumprir uma ordem ',
- "\nou intima\xc3\xa7\xc3\xa3o judicial; (2) para fazer com que os Termos de Uso aplic\xc3\xa1veis ao Servi\xc3\xa7o (que podem ser acessados na p\xc3\xa1gina principal do Servi\xc3\xa7o) sejam respeitados; ou (3) para proteger a seguran\xc3\xa7a dos Membros do Servi\xc3\xa7o e o Servi\xc3\xa7o propriamente dito. Mediante solicita\xc3\xa7\xc3\xa3o ao WDIG, o respons\xc3\xa1vel por uma crian\xc3\xa7a-membro pode analisar e mandar apagar qualquer conte\xc3\xbado do recurso de chat Amigos verdadeiros fornecidos pela crian\xc3\xa7a em quest\xc3\xa3o, desde que tal conte\xc3\xbado j\xc3\xa1 n\xc3\xa3o tenha sido exclu\xc3\xaddo dos registros pelo WDIG. Obedecendo \xc3\xa0 Children's Online Privacy Protection Act, uma lei americana de prote\xc3\xa7\xc3\xa3o \xc3\xa0 privacidade on-line para as crian\xc3\xa7as, estamos proibidos de condicionar a participa\xc3\xa7\xc3\xa3o da crian\xc3\xa7a em qualquer tipo de atividade (inclusive o recurso Abrir chat com Amigos verdadeiros) ao fornecimento, por parte da crian\xc3\xa7a, de mais informa\xc3\xa7\xc3\xb5es pessoais do que o estritamente necess\xc3\xa1rio para que ela participe de tais atividades.\n\nAl\xc3\xa9m disso, conforme observado acima, reconhecemos o direito do respons\xc3\xa1vel pela crian\xc3\xa7a de n\xc3\xa3o permitir que continuemos a deixar que a crian\xc3\xa7a use o recurso Amigos verdadeiros. Ao ativar o recurso Abrir chat com Amigos verdadeiros, voc\xc3\xaa reconhece que h\xc3\xa1 alguns riscos inerentes ao chat aberto, no qual os membros podem conversar uns com os outros usando o recurso Abrir chat com Amigos verdadeiros, sendo que voc\xc3\xaa foi informado de todos os riscos mencionados aqui, concordando em aceit\xc3\xa1-los, seja previs\xc3\xadvel ou n\xc3\xa3o.\n"]
+SecretFriendsInfoPanelText = ['\nO recurso Abrir chat com Amigos secretos\n\nO recurso Abrir chat com Amigos secretos ativa um membro para conversar diretamente com outro no Toontown On-line da Disney (o "Servi\xc3\xa7o") depois que os membros estabelecerem uma conex\xc3\xa3o de Amigos secretos. Quando o seu filho tentar usar o recurso Abrir chat com Amigos secretos, solicitaremos que voc\xc3\xaa insira a sua Senha conta de pais para indicar seu consentimento para que a crian\xc3\xa7a use o recurso. Esta \xc3\xa9 uma descri\xc3\xa7\xc3\xa3o detalhada do processo de cria\xc3\xa7\xc3\xa3o de uma conex\xc3\xa3o de Abrir chat com Amigos secretos entre os membros fict\xc3\xadcios chamados "Tails" e "Perninha". \n1. O respons\xc3\xa1vel por Tails e o respons\xc3\xa1vel por Perninha ativam o recurso Abrir chat com Amigos secretos inserindo suas respectivas Senhas conta de pais (a) nas \xc3\xa1reas de Op\xc3\xa7\xc3\xb5es da conta do Servi\xc3\xa7o ou (b) quando for solicitado no jogo, em uma janela pop-up de Controles dispon\xc3\xadveis aos pais.\n2. Tails pede um C\xc3\xb3digo de Amigo secreto (descrito abaixo) no Servi\xc3\xa7o.', 
+ '\n3. O C\xc3\xb3digo de Amigo secreto de Tails \xc3\xa9 comunicado a Perninha fora do Servi\xc3\xa7o. (O C\xc3\xb3digo de Amigo secreto de Tails pode ser comunicado a Perninha diretamente por Tails ou indiretamente, se Tails revelar o C\xc3\xb3digo de Amigo secreto a outra pessoa.)\n4. Perninha envia o C\xc3\xb3digo de Amigo secreto de Tails ao Servi\xc3\xa7o dentro de 48 horas a partir da hora em que Tails solicitou o C\xc3\xb3digo de Amigo secreto ao Servi\xc3\xa7o.\n5. Em seguida, o Servi\xc3\xa7o notifica Perninha de que Tails tornou-se sua Amiga verdadeira. Da mesma forma, o Servi\xc3\xa7o notifica Tails de que Perninha tornou-se seu Amigo secreto. \n6. Tails e Perninha podem agora bater um papo aberto diretamente um com o outro at\xc3\xa9 um deles escolher cancelar o seu relacionamento como Amigo secreto, ou at\xc3\xa9 que o recurso Abrir Chat com Amigos secretos seja desativado para Tails ou Perninha por um dos respons\xc3\xa1veis. Ent\xc3\xa3o, a conex\xc3\xa3o de Amigos secretos pode ser desativada a qualquer momento: (a) por um membro, que remove o Amigo secreto de sua lista de amigos (conforme descrito no Servi\xc3\xa7o), ou (b) pelo respons\xc3\xa1vel pelo membro, que desativa o recurso Abrir chat com ', 
+ '\nAmigos secretos na \xc3\xa1rea Op\xc3\xa7\xc3\xb5es da conta do Servi\xc3\xa7o, seguindo as etapas definidas no recurso.\n\nUm C\xc3\xb3digo de Amigo secreto \xc3\xa9 um c\xc3\xb3digo aleat\xc3\xb3rio, gerado por computador, que \xc3\xa9 atribu\xc3\xaddo a um membro espec\xc3\xadfico. O C\xc3\xb3digo de Amigo secreto precisa ser usado para ativar a conex\xc3\xa3o de Amigo secreto dentro de 48 horas a partir da hora em que o membro solicitou o C\xc3\xb3digo de Amigo secreto; caso contr\xc3\xa1rio, o C\xc3\xb3digo de Amigo secreto expirar\xc3\xa1 e n\xc3\xa3o poder\xc3\xa1 ser usado. Al\xc3\xa9m disso, s\xc3\xb3 se pode usar um simples C\xc3\xb3digo de Amigo secreto para estabelecer uma conex\xc3\xa3o de Amigo secreto. Para fazer conex\xc3\xb5es adicionais de Amigos secretos, o membro precisar\xc3\xa1 solicitar mais c\xc3\xb3digos de Amigo secretos, um para cada Amigo secreto que quiser incluir.\n\nAs Amizades verdadeiras n\xc3\xa3o podem ser transferidas. Por exemplo, se Tails se tornar Amiga verdadeira de Perninha, e Perninha se tornar Amigo secreto de J\xc3\xa9ssica, Tails n\xc3\xa3o se tornar\xc3\xa1 automaticamente Amiga verdadeira de J\xc3\xa9ssica. Para que Tails e J\xc3\xa9ssica\n',
+ "\nse tornem Amigas verdadeiras, uma delas ter\xc3\xa1 que solicitar um novo C\xc3\xb3digo de Amigo secreto ao Servi\xc3\xa7o e comunicar \xc3\xa0 outra.\n\nOs Amigos secretos se comunicam entre si por meio de uma conversa interativa em formato livre. O conte\xc3\xbado da conversa \xc3\xa9 inserido diretamente pelo membro participante e \xc3\xa9 processado pelo Servi\xc3\xa7o, cuja opera\xc3\xa7\xc3\xa3o \xc3\xa9 realizada pelo Walt Disney Internet Group ('WDIG'), 500 S. Buena Vista St., Burbank, CA 91521-7691.  Embora aconselhamos os membros n\xc3\xa3o trocarem informa\xc3\xa7\xc3\xb5es pessoais como nome e sobrenome, e-mails, endere\xc3\xa7o postal ou n\xc3\xbameros de telefone ao usarem o recurso Abrir Chat com Amigos secretos, n\xc3\xa3o podemos garantir que os membros seguir\xc3\xa3o a recomenda\xc3\xa7\xc3\xa3o e que tais informa\xc3\xa7\xc3\xb5es sejam preservadas. Embora o chat Amigos secretos seja automaticamente filtrado para maioria dos palavr\xc3\xb5es, Abrir chat com amigos secretos pode ser moderado e a Disney reserva-se o direito de moderar qualquer parte do Servi\xc3\xa7o que a Disney,\n",
+ '\na seu exclusivo e absoluto crit\xc3\xa9rio, julgar necess\xc3\xa1rio. No entanto, como Abrir chat com Amigos secretos nem sempre ser\xc3\xa1 moderado, se a conta de pais deixarem seus filhos usarem a conta com o recurso Abrir chat com Amigos secretos ativado no Servi\xc3\xa7o, aconselhamos que eles mesmos supervisionem os filhos durante a brincadeira. Ao ativar o recurso Abrir chat com Amigos secretos, a conta de pais reconhece que, apesar de haver alguns riscos inerentes ao recurso Abrir chat com amigos secretos, a conta de pais foi informada de todos os riscos mencionados aqui, concordando em aceit\xc3\xa1-los, seja previs\xc3\xadvel ou n\xc3\xa3o. \n\nO WDIG n\xc3\xa3o usa o conte\xc3\xbado do chat Amigos secretos para nenhum fim que n\xc3\xa3o seja a comunica\xc3\xa7\xc3\xa3o do conte\xc3\xbado ao amigo secreto do membro, e n\xc3\xa3o revela tal conte\xc3\xbado a terceiros, exceto: (1) se exigido por lei; por exemplo, para cumprir uma ordem ',
+ "\nou intima\xc3\xa7\xc3\xa3o judicial; (2) para fazer com que os Termos de Uso aplic\xc3\xa1veis ao Servi\xc3\xa7o (que podem ser acessados na p\xc3\xa1gina principal do Servi\xc3\xa7o) sejam respeitados; ou (3) para proteger a seguran\xc3\xa7a dos Membros do Servi\xc3\xa7o e o Servi\xc3\xa7o propriamente dito. Mediante solicita\xc3\xa7\xc3\xa3o ao WDIG, o respons\xc3\xa1vel por uma crian\xc3\xa7a-membro pode analisar e mandar apagar qualquer conte\xc3\xbado do recurso de chat Amigos secretos fornecidos pela crian\xc3\xa7a em quest\xc3\xa3o, desde que tal conte\xc3\xbado j\xc3\xa1 n\xc3\xa3o tenha sido exclu\xc3\xaddo dos registros pelo WDIG. Obedecendo \xc3\xa0 Children's Online Privacy Protection Act, uma lei americana de prote\xc3\xa7\xc3\xa3o \xc3\xa0 privacidade on-line para as crian\xc3\xa7as, estamos proibidos de condicionar a participa\xc3\xa7\xc3\xa3o da crian\xc3\xa7a em qualquer tipo de atividade (inclusive o recurso Abrir chat com Amigos secretos) ao fornecimento, por parte da crian\xc3\xa7a, de mais informa\xc3\xa7\xc3\xb5es pessoais do que o estritamente necess\xc3\xa1rio para que ela participe de tais atividades.\n\nAl\xc3\xa9m disso, conforme observado acima, reconhecemos o direito do respons\xc3\xa1vel pela crian\xc3\xa7a de n\xc3\xa3o permitir que continuemos a deixar que a crian\xc3\xa7a use o recurso Amigos secretos. Ao ativar o recurso Abrir chat com Amigos secretos, voc\xc3\xaa reconhece que h\xc3\xa1 alguns riscos inerentes ao chat aberto, no qual os membros podem conversar uns com os outros usando o recurso Abrir chat com Amigos secretos, sendo que voc\xc3\xaa foi informado de todos os riscos mencionados aqui, concordando em aceit\xc3\xa1-los, seja previs\xc3\xadvel ou n\xc3\xa3o.\n"]
 LeaveToPay = 'Clica comprar para sair do jogo e compra um Seja um Super Toon no site Toontown.com.br'
 LeaveToPayYes = 'Comprar'
 LeaveToPayNo = lCancel
@@ -148,12 +149,12 @@ LeaveToEnableChatUK = 'Para ativar o chat, o jogo sair\xc3\xa1 para o site Toont
 LeaveToEnableChatUKYes = 'Ativar chat'
 LeaveToEnableChatUKNo = lCancel
 ChatMoreInfoOK = lOK
-SecretChatDeactivated = 'O recurso "Amigos verdadeiros" foi desativado.'
-RestrictedSecretChatActivated = 'O recurso "Amigos verdadeiros restritos" foi ativado!'
-SecretChatActivated = 'O recurso "Amigos verdadeiros irrestritos" foi ativado!\n\nSe voc\xc3\xaa mudar de id\xc3\xa9ia e decidir desativar este recurso mais tarde, clique em "Op\xc3\xa7\xc3\xb5es da conta" na p\xc3\xa1gina da web de Toontown.'
+SecretChatDeactivated = 'O recurso "Amigos secretos" foi desativado.'
+RestrictedSecretChatActivated = 'O recurso "Amigos secretos restritos" foi ativado!'
+SecretChatActivated = 'O recurso "Amigos secretos irrestritos" foi ativado!\n\nSe voc\xc3\xaa mudar de id\xc3\xa9ia e decidir desativar este recurso mais tarde, clique em "Op\xc3\xa7\xc3\xb5es da conta" na p\xc3\xa1gina da web de Toontown.'
 SecretChatActivatedOK = lOK
 SecretChatActivatedChange = 'Alterar Op\xc3\xa7\xc3\xb5es'
-ProblemActivatingChat = 'Ops! N\xc3\xa3o foi poss\xc3\xadvel ativar o recurso de chat "Amigos verdadeiros".\n\n%s\n\nTente novamente mais tarde.'
+ProblemActivatingChat = 'Ops! N\xc3\xa3o foi poss\xc3\xadvel ativar o recurso de chat "Amigos secretos".\n\n%s\n\nTente novamente mais tarde.'
 ProblemActivatingChatOK = lOK
 MultiPageTextFrameNext = lNext
 MultiPageTextFramePrev = 'Anterior'
@@ -287,32 +288,32 @@ SCMenuSellbotInvasion = 'INVAS\xc3\x83O DOS R\xc3\x94BOS VENDEDORES'
 SCMenuFieldOffice = 'ESCRIT\xc3\x93RIOS DE CAMPO'
 SCMenuIdesOfMarch = 'VERDE'
 FriendSecretNeedsPasswordWarningTitle = 'Controles dispon\xc3\xadveis aos pais'
-FriendSecretNeedsParentLoginWarning = 'Para conseguir ou digitar um C\xc3\xb3digo de Amigo Verdadeiro, um dos seus pais ou respons\xc3\xa1veis precisa fazer o login. Voc\xc3\xaa pode desativar esta pergunta alterando suas op\xc3\xa7\xc3\xb5es de Amigos Verdadeiros.'
-FriendSecretNeedsPasswordWarning = 'Para pegar ou digitar um C\xc3\xb3digo de Amigos Verdadeiros, voc\xc3\xaa deve inserir a Senha conta de pais. Voc\xc3\xaa pode desativar esta solicita\xc3\xa7\xc3\xa3o alterando as suas op\xc3\xa7\xc3\xb5es de Amigos verdadadeiros.'
+FriendSecretNeedsParentLoginWarning = 'Para conseguir ou digitar um C\xc3\xb3digo de Amigo Verdadeiro, um dos seus pais ou respons\xc3\xa1veis precisa fazer o login. Voc\xc3\xaa pode desativar esta pergunta alterando suas op\xc3\xa7\xc3\xb5es de Amigos Secretos.'
+FriendSecretNeedsPasswordWarning = 'Para pegar ou digitar um C\xc3\xb3digo de Amigos Secretos, voc\xc3\xaa deve inserir a Senha conta de pais. Voc\xc3\xaa pode desativar esta solicita\xc3\xa7\xc3\xa3o alterando as suas op\xc3\xa7\xc3\xb5es de Amigos verdadadeiros.'
 FriendSecretNeedsPasswordWarningOK = lOK
 FriendSecretNeedsPasswordWarningCancel = lCancel
 FriendSecretNeedsPasswordWarningWrongUsername = 'Esse n\xc3\xa3o \xc3\xa9 o nome de usu\xc3\xa1rio correto. Digite o nome de usu\xc3\xa1rio da conta de pais. Esse n\xc3\xa3o \xc3\xa9 o mesmo nome de usu\xc3\xa1rio que \xc3\xa9 usado para jogar.'''
 FriendSecretNeedsPasswordWarningWrongPassword = 'Esta n\xc3\xa3o \xc3\xa9 a senha correta. Insira a Senha conta de pais criada na compra desta conta. N\xc3\xa3o \xc3\xa9 a mesma senha usada para os jogos.'''
-FriendSecretIntro = 'Se voc\xc3\xaa estiver jogando Toontown Online da Disney com algu\xc3\xa9m que conhece no mundo real, poder\xc3\xa1 tornar-se Amigo verdadeiro dessa pessoa. Voc\xc3\xaa pode conversar com seus Amigos verdadeiros usando o teclado. Os outros Toons n\xc3\xa3o entender\xc3\xa3o o que voc\xc3\xaas estiverem falando.\n\nVoc\xc3\xaa pode conseguir isto obtendo um C\xc3\xb3digo de Amigos Verdadeiros. Conte o C\xc3\xb3digo de Amigos Verdadeiros s\xc3\xb3 ao seu amigo, e a mais ningu\xc3\xa9m. Quando o seu amigo digitar o seu C\xc3\xb3digo de Amigos Verdadeiros na tela, voc\xc3\xaas dois ser\xc3\xa3o Amigos verdadeiros em Toontown!'
-FriendSecretGetSecret = 'Obter um C\xc3\xb3digo de Amigos Verdadeiros'
-FriendSecretEnterSecret = 'Se voc\xc3\xaa tiver um C\xc3\xb3digo de Amigos Verdadeiros de algu\xc3\xa9m conhecido, digite-o aqui.'
+FriendSecretIntro = 'Se voc\xc3\xaa estiver jogando Toontown Online da Disney com algu\xc3\xa9m que conhece no mundo real, poder\xc3\xa1 tornar-se Amigo secreto dessa pessoa. Voc\xc3\xaa pode conversar com seus Amigos secretos usando o teclado. Os outros Toons n\xc3\xa3o entender\xc3\xa3o o que voc\xc3\xaas estiverem falando.\n\nVoc\xc3\xaa pode conseguir isto obtendo um C\xc3\xb3digo de Amigos Secretos. Conte o C\xc3\xb3digo de Amigos Secretos s\xc3\xb3 ao seu amigo, e a mais ningu\xc3\xa9m. Quando o seu amigo digitar o seu C\xc3\xb3digo de Amigos Secretos na tela, voc\xc3\xaas dois ser\xc3\xa3o Amigos secretos em Toontown!'
+FriendSecretGetSecret = 'Obter um C\xc3\xb3digo de Amigos Secretos'
+FriendSecretEnterSecret = 'Se voc\xc3\xaa tiver um C\xc3\xb3digo de Amigos Secretos de algu\xc3\xa9m conhecido, digite-o aqui.'
 FriendSecretOK = lOK
-FriendSecretEnter = 'Inserir C\xc3\xb3digo de Amigos Verdadeiros'
+FriendSecretEnter = 'Inserir C\xc3\xb3digo de Amigos Secretos'
 FriendSecretCancel = lCancel
-FriendSecretGettingSecret = 'Obtendo C\xc3\xb3digo de Amigos Verdadeiros. . .'
-FriendSecretGotSecret = 'Este \xc3\xa9 o seu novo C\xc3\xb3digo de Amigos Verdadeiros. N\xc3\xa3o deixe de anot\xc3\xa1-lo em algum lugar!\n\nVoc\xc3\xaa s\xc3\xb3 pode dar este C\xc3\xb3digo de Amigos Verdadeiros a uma pessoa. Depois que algu\xc3\xa9m digitar o seu C\xc3\xb3digo de Amigos Verdadeiros, ele n\xc3\xa3o funcionar\xc3\xa1 para nenhuma outra pessoa. Se voc\xc3\xaa quiser dar um C\xc3\xb3digo de Amigos Verdadeiros para mais de uma pessoa, obtenha outro.\n\nO C\xc3\xb3digo de Amigos Verdadeiros s\xc3\xb3 funcionar\xc3\xa1 nos pr\xc3\xb3ximos dois dias. O seu amigo ter\xc3\xa1 que digit\xc3\xa1-lo antes que expire, caso contr\xc3\xa1rio, n\xc3\xa3o funcionar\xc3\xa1.\n\nO C\xc3\xb3digo de Amigos Verdadeiros \xc3\xa9:'
-FriendSecretTooMany = 'Sinto muito, voc\xc3\xaa n\xc3\xa3o pode ter mais c\xc3\xb3digo de Amigos Verdadeiros hoje. Voc\xc3\xaa j\xc3\xa1 obteve mais do que a parte que lhe cabia!\n\nTente novamente amanh\xc3\xa3.'
-FriendSecretTryingSecret = 'Tentando usar C\xc3\xb3digo de Amigos Verdadeiros. . .'
-FriendSecretEnteredSecretSuccess = 'Agora, voc\xc3\xaa \xc3\xa9 Amigo verdadeiro de %s!'
+FriendSecretGettingSecret = 'Obtendo C\xc3\xb3digo de Amigos Secretos. . .'
+FriendSecretGotSecret = 'Este \xc3\xa9 o seu novo C\xc3\xb3digo de Amigos Secretos. N\xc3\xa3o deixe de anot\xc3\xa1-lo em algum lugar!\n\nVoc\xc3\xaa s\xc3\xb3 pode dar este C\xc3\xb3digo de Amigos Secretos a uma pessoa. Depois que algu\xc3\xa9m digitar o seu C\xc3\xb3digo de Amigos Secretos, ele n\xc3\xa3o funcionar\xc3\xa1 para nenhuma outra pessoa. Se voc\xc3\xaa quiser dar um C\xc3\xb3digo de Amigos Secretos para mais de uma pessoa, obtenha outro.\n\nO C\xc3\xb3digo de Amigos Secretos s\xc3\xb3 funcionar\xc3\xa1 nos pr\xc3\xb3ximos dois dias. O seu amigo ter\xc3\xa1 que digit\xc3\xa1-lo antes que expire, caso contr\xc3\xa1rio, n\xc3\xa3o funcionar\xc3\xa1.\n\nO C\xc3\xb3digo de Amigos Secretos \xc3\xa9:'
+FriendSecretTooMany = 'Sinto muito, voc\xc3\xaa n\xc3\xa3o pode ter mais c\xc3\xb3digo de Amigos Secretos hoje. Voc\xc3\xaa j\xc3\xa1 obteve mais do que a parte que lhe cabia!\n\nTente novamente amanh\xc3\xa3.'
+FriendSecretTryingSecret = 'Tentando usar C\xc3\xb3digo de Amigos Secretos. . .'
+FriendSecretEnteredSecretSuccess = 'Agora, voc\xc3\xaa \xc3\xa9 Amigo secreto de %s!'
 FriendSecretTimeOut = 'Sinto muitos, c\xc3\xb3digos de amigos verdadadeiros n\xc3\xa3o est\xc3\xa3o funcionando agora.'
 FriendSecretTimeOutRetro = 'Sinto muitos, segredos n\xc3\xa3o est\xc3\xa3o funcionando agora.'
-FriendSecretEnteredSecretUnknown = 'Este C\xc3\xb3digo de Amigos Verdadeiros n\xc3\xa3o existe. Tem certeza de que digitou certo?\n\nSe voc\xc3\xaa tiver digitado certo, ele pode ter expirado. Pe\xc3\xa7a ao seu amigo para pegar outro C\xc3\xb3digo de Amigos Verdadeiros para voc\xc3\xaa (ou pegue um novo voc\xc3\xaa mesmo e d\xc3\xaa ao seu amigo).'
+FriendSecretEnteredSecretUnknown = 'Este C\xc3\xb3digo de Amigos Secretos n\xc3\xa3o existe. Tem certeza de que digitou certo?\n\nSe voc\xc3\xaa tiver digitado certo, ele pode ter expirado. Pe\xc3\xa7a ao seu amigo para pegar outro C\xc3\xb3digo de Amigos Secretos para voc\xc3\xaa (ou pegue um novo voc\xc3\xaa mesmo e d\xc3\xaa ao seu amigo).'
 FriendSecretEnteredSecretFull = 'Voc\xc3\xaa n\xc3\xa3o pode fazer amizade com %s porque um de voc\xc3\xaas dois possui amigos demais na lista.'
 FriendSecretEnteredSecretFullNoName = 'Voc\xc3\xaas n\xc3\xa3o podem fazer amizade porque um de voc\xc3\xaas dois possui amigos demais na lista.'
-FriendSecretEnteredSecretSelf = 'Voc\xc3\xaa acabou de digitar seu pr\xc3\xb3prio C\xc3\xb3digo de Amigos Verdadeiros! Agora, ningu\xc3\xa9m mais poder\xc3\xa1 usar este C\xc3\xb3digo de Amigos Verdadeiros.'
+FriendSecretEnteredSecretSelf = 'Voc\xc3\xaa acabou de digitar seu pr\xc3\xb3prio C\xc3\xb3digo de Amigos Secretos! Agora, ningu\xc3\xa9m mais poder\xc3\xa1 usar este C\xc3\xb3digo de Amigos Secretos.'
 FriendSecretEnteredSecretWrongProduct = "Voc\xc3\xaa digitou o tipo errado de C\xc3\xb3digo de Amigo Verdadeiro.\nEste jogo utiliza c\xc3\xb3digos que come\xc3\xa7am com '%s'."
 FriendSecretNowFriends = 'Agora, voc\xc3\xaa \xc3\xa9 Amigo Verdadeiro de %s!'
-FriendSecretNowFriendsNoName = 'Agora, voc\xc3\xaas s\xc3\xa3o Amigos verdadeiros!'
+FriendSecretNowFriendsNoName = 'Agora, voc\xc3\xaas s\xc3\xa3o Amigos secretos!'
 FriendSecretDetermineSecret = 'Que tipo de Amigo Verdadeiro voc\xc3\xaa quer ter?'
 FriendSecretDetermineSecretAvatar = 'Avatar'
 FriendSecretDetermineSecretAvatarRollover = 'Um amigo somente neste jogo'
@@ -1879,12 +1880,12 @@ SpeedChatStaticTextToontown = {100: 'Oi!',
  30332: 'Uma caixa de correio ajudou minhas Piadas de Lan\xc3\xa7amento!',
  30350: 'Bem-vindo \xc3\xa0 minha Festa da Vit\xc3\xb3ria!',
  30351: 'Esta \xc3\xa9 uma grande Festa da Vit\xc3\xb3ria!',
- 30352: 'Mostramos \xc3\xa0queles Cogs quem manda!',
+ 30352: 'Mostramos \xc3\xa0queles Cogs quem \xc3\xa9 que manda!',
  30353: 'Bom trabalho ajudando a acabar com as invas\xc3\xb5es Cog!',
  30354: 'Aposto que isso est\xc3\xa1 deixando os Cogs loucos!',
- 30355: 'Vamos jogar Cog-De-Guerra!'
- 30356: 'Meu time venceu o Cog-De-Guerra!',
- 30357: '\xc3\x89 bom ter hidrantes, latas de lixo e caixas de correio aqui!',
+ 30355: 'Vamos jogar Cog-De-Guerra!',
+ 30356: 'Meu time venceu no Cog-De-Guerra!',
+ 30357: '\xc3\x89 bom ter hidrantes, latas de lixo, e caixas de correio aqui!',
  30358: 'Gosto do bal\xc3\xa3o do Rabisco mordendo o cog!',
  30359: 'Gosto do bal\xc3\xa3o do Cog coberto de sorvete!',
  30360: 'Gosto do cog ondulado que bate os bra\xc3\xa7os!',
@@ -2009,8 +2010,8 @@ SpeedChatStaticTextPirates = {50001: 'Sim',
  50203: 'Patife!',
  50204: 'Marujo de terra firme!',
  50205: 'Tolo confuso',
- 50206: 'Voc\xc3\xaa precisa de uma espada afiada e intelig\xc3\xaancia mais afiada.'
- 50207: 'Voc\xc3\xaa est\xc3\xa1 a um dobr\xc3\xa3o de um companheiro de casco completo!'
+ 50206: 'Voc\xc3\xaa precisa de uma espada afiada e intelig\xc3\xaancia mais afiada.',
+ 50207: 'Voc\xc3\xaa est\xc3\xa1 a um dobr\xc3\xa3o de um companheiro de casco completo!',
  50208: 'Cuidado com sua l\xc3\xadngua ou vou conserv\xc3\xa1-la com sal marinho!',
  50209: 'Toca-me e saqueie e voc\xc3\xaa ganha a bota!',
  50210: 'O horizonte est\xc3\xa1 t\xc3\xa3o vazio quanto sua cabe\xc3\xa7a.',
@@ -2037,7 +2038,7 @@ SpeedChatStaticTextPirates = {50001: 'Sim',
  53103: 'O que voc\xc3\xaa pescou?',
  53104: 'Isso vai virar uma hist\xc3\xb3ria de baleia!',
  53105: 'Foi uma beleza!',
- 53106: 'Arr, o mar est\xc3\xa1 traiçoeiro hoje.',
+ 53106: 'Arr, o mar est\xc3\xa1 trai\xc3\xa7oeiro hoje.',
  53107: 'Que farta pesca!', 
  53110: 'Voc\xc3\xaa tem a isca lend\xc3\xa1ria?',
  53111: 'Voc\xc3\xaa j\xc3\xa1 pescou um peixe lend\xc3\xa1rio?',
@@ -2059,18 +2060,18 @@ SpeedChatStaticTextPirates = {50001: 'Sim',
  53143: 'Onde est\xc3\xa1 o cigano?',
  53144: 'Que po\xc3\xa7\xc3\xa3o \xc3\xa9 essa?',
  53145: 'Esta po\xc3\xa7\xc3\xa3o foi f\xc3\xa1cil o suficiente.',
- 53146: 'Esta po\xc3\xa7\xc3\xa3o foi difícil de preparar, eu te digo!',
+ 53146: 'Esta po\xc3\xa7\xc3\xa3o foi dif\xc3\xadcil de preparar, eu te digo!',
  53160: 'Precisamos de algu\xc3\xa9m para bombear o por\xc3\xa3o!',
  53161: 'Precisamos de algu\xc3\xa9m para esfregar!',
  53162: 'Precisamos de algu\xc3\xa9m para serrar!',
- 53163: 'Precisamos de algu\xc3\xa9m para reforçar!',
+ 53163: 'Precisamos de algu\xc3\xa9m para refor\xc3\xa7ar!',
  53164: 'Precisamos de algu\xc3\xa9m para martelar!',
  53165: 'Precisamos de algu\xc3\xa9m para remendar!',
- 53166: 'Eu faço isso!',
+ 53166: 'Eu fa\xc3\xa7o isso!',
  53167: 'Continue assim, este navio n\xc3\xa3o vai se consertar sozinho!',
  53168: '\xc3\x93timo trabalho consertando o navio!',
  52100: 'Quer se agrupar?',
- 52101: 'Juntar-se à minha tripula\xc3\xa7\xc3\xa3o?',
+ 52101: 'Juntar-se \xc3\xa0 minha tripula\xc3\xa7\xc3\xa3o?',
  52200: 'Lute contra alguns esqueletos?',
  52201: 'Lute contra alguns caranguejos?',
  52300: 'Que tal um jogo de Mayhem?',
@@ -2078,13 +2079,13 @@ SpeedChatStaticTextPirates = {50001: 'Sim',
  52302: 'Quer iniciar um jogo Mayhem?',
  52303: 'Quer iniciar um jogo de batalha em equipe?',
  52304: 'Junte-se ao meu jogo de batalha em equipe.',
- 52350: 'Junte-se à minha Defesa de Canh\xc3\xa3o.',
- 52351: 'Quer começar uma Defesa de Canh\xc3\xa3o?',
+ 52350: 'Junte-se \xc3\xa0 minha Defesa de Canh\xc3\xa3o.',
+ 52351: 'Quer come\xc3\xa7ar uma Defesa de Canh\xc3\xa3o?',
  52352: 'Voc\xc3\xaa pode me dar uma m\xc3\xa3o com o Reparo?',
  52353: 'Precisamos consertar o navio agora!',
  52354: 'Quer pescar?',
  52355: 'Quer ir pescar comigo?',
- 52356: 'Junte-se à minha tripula\xc3\xa7\xc3\xa3o para pescar?',
+ 52356: 'Junte-se \xc3\xa0 minha tripula\xc3\xa7\xc3\xa3o para pescar?',
  52357: 'Hora de preparar algumas po\xc3\xa7\xc3\xb5es!',
  52358: 'Voc\xc3\xaa deveria tentar preparar po\xc3\xa7\xc3\xb5es.',
  52000: '',
@@ -2823,7 +2824,7 @@ AvatarDetailPanelOnline = 'Regi\xc3\xa3o: %(district)s\nLocation: %(location)s'
 AvatarDetailPanelOffline = 'Regi\xc3\xa3o: off-line\nLocal: off-line'
 AvatarPanelFriends = 'Amigos'
 AvatarPanelWhisper = 'Cochichar'
-AvatarPanelSecrets = 'Amigos Verdadeiros'
+AvatarPanelSecrets = 'Amigos Secretos'
 AvatarPanelGoTo = 'Ir para'
 AvatarPanelIgnore = 'Ignorar'
 AvatarPanelStopIgnore = 'Parar de Ignorar'
