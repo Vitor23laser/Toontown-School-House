@@ -2263,7 +2263,7 @@ SCFactoryMeetMenuIndexes = (1903,
  1924,
  1932,
  1940, 
- 1941)}
+ 1941)
 CustomSCStrings = {10: 'Bom...',
  20: 'Por que n\xc3\xa3o?',
  30: 'Claro!',
@@ -2893,6 +2893,6 @@ def timeElapsedString(timeDelta):
         else:
             return '%s horas atr\xc3\xa1s' % (timeDelta.seconds / 3600)
     elif timeDelta.seconds / 60 < 2:
-            return '1 minuto atr\xc3\xa1s'
-        else:
-            return '%s minutos atr\xc3\xa1s' % (timeDelta.seconds / 60)
+        return '1 minuto atr\xc3\xa1s'
+    else:
+        return '%s minutos atr\xc3\xa1s' % (timeDelta.seconds / 60)
