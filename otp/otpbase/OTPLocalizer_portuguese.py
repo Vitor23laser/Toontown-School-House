@@ -2263,7 +2263,7 @@ SCFactoryMeetMenuIndexes = {1903,
  1924,
  1932,
  1940, 
- 1941)
+ 1941)}
 CustomSCStrings = {10: 'Bom...',
  20: 'Por que n\xc3\xa3o?',
  30: 'Claro!',
